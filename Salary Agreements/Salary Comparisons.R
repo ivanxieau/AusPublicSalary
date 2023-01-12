@@ -35,7 +35,7 @@ ACT_df <- read_csv(url(urlfile))
 urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/NTPS%20EA%20Salaries.csv" 
 NT_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/Seasonally-Adjusted%20CPI.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/CPI.csv" 
 CPI <- read_csv(url(urlfile))
 
 # Melt dataframes
@@ -58,8 +58,3 @@ colnames(Salaries)[5] ="Salary"
 Salaries <- subset(Salaries, select = -c(variable))
 
 # Clean CPI dataframe (Converting data types, insert missing months, creating new Monthly CPI variable)
-CPI$Date <- as.Date(CPI$Date, "%d/%m/%Y")
-CPI <- pad(CPI, interval = "month")
-
-write.csv(CPI, "C:\\Users\\ivanx\\Desktop\\CPI.csv", row.names=FALSE)
-
