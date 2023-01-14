@@ -1,932 +1,153 @@
-Occupation,Date,Salary
-Junior Officer (ACT),9/04/2015,56267.84295
-Junior Officer (ACT),7/10/2015,56262.94967
-Junior Officer (ACT),8/10/2015,57106.92993
-Junior Officer (ACT),6/04/2016,57104.78522
-Junior Officer (ACT),7/04/2016,57961.23231
-Junior Officer (ACT),5/10/2016,57955.04542
-Junior Officer (ACT),6/10/2016,58824.37574
-Junior Officer (ACT),5/04/2017,58818.32862
-Junior Officer (ACT),6/04/2017,59700.59927
-Junior Officer (ACT),4/10/2017,59696.82214
-Junior Officer (ACT),5/10/2017,61040.10477
-Junior Officer (ACT),13/06/2018,61030.08739
-Junior Officer (ACT),14/06/2018,61335.27587
-Junior Officer (ACT),12/12/2018,61331.51573
-Junior Officer (ACT),13/12/2018,62159.51692
-Junior Officer (ACT),12/06/2019,62153.80057
-Junior Officer (ACT),13/06/2019,62992.7892
-Junior Officer (ACT),11/12/2019,62986.55962
-Junior Officer (ACT),12/12/2019,63836.76202
-Junior Officer (ACT),10/06/2020,63844.84352
-Junior Officer (ACT),11/06/2020,64706.63664
-Junior Officer (ACT),9/12/2020,64694.0308
-Junior Officer (ACT),10/12/2020,65567.43141
-Junior Officer (ACT),9/06/2021,65560.75156
-Junior Officer (ACT),10/06/2021,66445.89058
-Junior Officer (ACT),8/12/2021,66432.08759
-Junior Officer (ACT),9/12/2021,67328.93159
-Junior Officer (ACT),8/06/2022,67303.08461
-Junior Officer (ACT),9/06/2022,68211.63069
-Junior Officer (ACT),1/12/2022,68190.56588
-Manager (ACT),9/04/2015,122361.9169
-Manager (ACT),7/10/2015,122351.2758
-Manager (ACT),8/10/2015,124186.4716
-Manager (ACT),6/04/2016,124181.8077
-Manager (ACT),7/04/2016,126044.5057
-Manager (ACT),5/10/2016,126031.0514
-Manager (ACT),6/10/2016,127921.4983
-Manager (ACT),5/04/2017,127908.348
-Manager (ACT),6/04/2017,129826.9207
-Manager (ACT),4/10/2017,129818.7069
-Manager (ACT),5/10/2017,132739.6891
-Manager (ACT),13/06/2018,132717.905
-Manager (ACT),14/06/2018,133381.7301
-Manager (ACT),12/12/2018,133373.5531
-Manager (ACT),13/12/2018,135173.8861
-Manager (ACT),12/06/2019,135161.4552
-Manager (ACT),13/06/2019,136986.3968
-Manager (ACT),11/12/2019,136972.8497
-Manager (ACT),12/12/2019,138821.7396
-Manager (ACT),10/06/2020,138839.3139
-Manager (ACT),11/06/2020,140713.8537
-Manager (ACT),9/12/2020,140686.4405
-Manager (ACT),10/12/2020,142585.6378
-Manager (ACT),9/06/2021,142571.1116
-Manager (ACT),10/06/2021,144495.7508
-Manager (ACT),8/12/2021,144465.7343
-Manager (ACT),9/12/2021,146415.9954
-Manager (ACT),8/06/2022,146359.7876
-Manager (ACT),9/06/2022,148335.2707
-Manager (ACT),1/12/2022,148289.4625
-Officer (ACT),9/04/2015,72719.70666
-Officer (ACT),7/10/2015,72713.38266
-Officer (ACT),8/10/2015,73804.12893
-Officer (ACT),6/04/2016,73801.35715
-Officer (ACT),7/04/2016,74908.5883
-Officer (ACT),5/10/2016,74900.59241
-Officer (ACT),6/10/2016,76024.15429
-Officer (ACT),5/04/2017,76016.33904
-Officer (ACT),6/04/2017,77156.64273
-Officer (ACT),4/10/2017,77151.76119
-Officer (ACT),5/10/2017,78887.50892
-Officer (ACT),13/06/2018,78874.56258
-Officer (ACT),14/06/2018,79269.06434
-Officer (ACT),12/12/2018,79264.20478
-Officer (ACT),13/12/2018,80334.47717
-Officer (ACT),12/06/2019,80327.08941
-Officer (ACT),13/06/2019,81411.75707
-Officer (ACT),11/12/2019,81403.70597
-Officer (ACT),12/12/2019,82502.67703
-Officer (ACT),10/06/2020,82513.12157
-Officer (ACT),11/06/2020,83626.80636
-Officer (ACT),9/12/2020,83610.51459
-Officer (ACT),10/12/2020,84739.14768
-Officer (ACT),9/06/2021,84730.51467
-Officer (ACT),10/06/2021,85874.11156
-Officer (ACT),8/12/2021,85856.27269
-Officer (ACT),9/12/2021,87015.46408
-Officer (ACT),8/06/2022,86982.05961
-Officer (ACT),9/06/2022,88156.12064
-Officer (ACT),1/12/2022,88128.89667
-Principal Officer (ACT),9/04/2015,99441.0982
-Principal Officer (ACT),7/10/2015,99432.45039
-Principal Officer (ACT),8/10/2015,100923.879
-Principal Officer (ACT),6/04/2016,100920.0887
-Principal Officer (ACT),7/04/2016,102433.7205
-Principal Officer (ACT),5/10/2016,102422.7866
-Principal Officer (ACT),6/10/2016,103959.4227
-Principal Officer (ACT),5/04/2017,103948.7357
-Principal Officer (ACT),6/04/2017,105507.9712
-Principal Officer (ACT),4/10/2017,105501.2959
-Principal Officer (ACT),5/10/2017,107874.7994
-Principal Officer (ACT),13/06/2018,107857.0959
-Principal Officer (ACT),14/06/2018,108396.7541
-Principal Officer (ACT),12/12/2018,108390.1089
-Principal Officer (ACT),13/12/2018,109853.4325
-Principal Officer (ACT),12/06/2019,109843.3301
-Principal Officer (ACT),13/06/2019,111326.2373
-Principal Officer (ACT),11/12/2019,111315.2278
-Principal Officer (ACT),12/12/2019,112818.0985
-Principal Officer (ACT),10/06/2020,112832.3809
-Principal Officer (ACT),11/06/2020,114355.7763
-Principal Officer (ACT),9/12/2020,114333.4981
-Principal Officer (ACT),10/12/2020,115877.3226
-Principal Officer (ACT),9/06/2021,115865.5173
-Principal Officer (ACT),10/06/2021,117429.2866
-Principal Officer (ACT),8/12/2021,117404.8927
-Principal Officer (ACT),9/12/2021,118989.5588
-Principal Officer (ACT),8/06/2022,118943.8798
-Principal Officer (ACT),9/06/2022,120549.4175
-Principal Officer (ACT),1/12/2022,120512.19
-Senior Officer (ACT),9/04/2015,81022.17478
-Senior Officer (ACT),7/10/2015,81015.12876
-Senior Officer (ACT),8/10/2015,82230.12702
-Senior Officer (ACT),6/04/2016,82227.03879
-Senior Officer (ACT),7/04/2016,83460.40593
-Senior Officer (ACT),5/10/2016,83451.4972
-Senior Officer (ACT),6/10/2016,84703.0615
-Senior Officer (ACT),5/04/2017,84694.35405
-Senior Officer (ACT),6/04/2017,85964.60245
-Senior Officer (ACT),4/10/2017,85959.16365
-Senior Officer (ACT),5/10/2017,87893.36925
-Senior Officer (ACT),13/06/2018,87878.94494
-Senior Officer (ACT),14/06/2018,88318.35924
-Senior Officer (ACT),12/12/2018,88312.94491
-Senior Officer (ACT),13/12/2018,89504.8407
-Senior Officer (ACT),12/06/2019,89496.6096
-Senior Officer (ACT),13/06/2019,90704.77703
-Senior Officer (ACT),11/12/2019,90695.80691
-Senior Officer (ACT),12/12/2019,91920.14356
-Senior Officer (ACT),10/06/2020,91931.78032
-Senior Officer (ACT),11/06/2020,93172.74337
-Senior Officer (ACT),9/12/2020,93154.59191
-Senior Officer (ACT),10/12/2020,94412.2983
-Senior Officer (ACT),9/06/2021,94402.67981
-Senior Officer (ACT),10/06/2021,95676.94462
-Senior Officer (ACT),8/12/2021,95657.06938
-Senior Officer (ACT),9/12/2021,96948.45103
-Senior Officer (ACT),8/06/2022,96911.23337
-Senior Officer (ACT),9/06/2022,98219.29964
-Senior Officer (ACT),1/12/2022,98188.968
-Junior Officer (Commonwealth),31/12/2014,56482.43941
-Junior Officer (Commonwealth),30/12/2015,56473.11822
-Junior Officer (Commonwealth),31/12/2015,56658.27433
-Junior Officer (Commonwealth),30/12/2016,56649.87455
-Junior Officer (Commonwealth),31/12/2016,57197.61674
-Junior Officer (Commonwealth),30/12/2017,57186.2522
-Junior Officer (Commonwealth),31/12/2017,58540.80983
-Junior Officer (Commonwealth),30/12/2018,58532.47522
-Junior Officer (Commonwealth),31/12/2018,58941.79322
-Junior Officer (Commonwealth),30/12/2019,58928.91246
-Junior Officer (Commonwealth),31/12/2019,60079.44501
-Junior Officer (Commonwealth),30/12/2020,60076.35506
-Junior Officer (Commonwealth),31/12/2020,60708.43027
-Junior Officer (Commonwealth),30/12/2021,60688.37449
-Junior Officer (Commonwealth),31/12/2021,61922.85518
-Junior Officer (Commonwealth),1/12/2022,61881.4375
-Manager (Commonwealth),31/12/2014,135505.0308
-Manager (Commonwealth),30/12/2015,135482.6687
-Manager (Commonwealth),31/12/2015,135482.6687
-Manager (Commonwealth),30/12/2016,135462.583
-Manager (Commonwealth),31/12/2016,137159.9659
-Manager (Commonwealth),30/12/2017,137132.7137
-Manager (Commonwealth),31/12/2017,139774.5689
-Manager (Commonwealth),30/12/2018,139754.6688
-Manager (Commonwealth),31/12/2018,142267.7145
-Manager (Commonwealth),30/12/2019,142236.6242
-Manager (Commonwealth),31/12/2019,144133.2396
-Manager (Commonwealth),30/12/2020,144125.8267
-Manager (Commonwealth),31/12/2020,146431.8002
-Manager (Commonwealth),30/12/2021,146383.4246
-Manager (Commonwealth),31/12/2021,149898.4109
-Manager (Commonwealth),1/12/2022,149798.15
-Officer (Commonwealth),31/12/2014,72642.75897
-Officer (Commonwealth),30/12/2015,72630.77087
-Officer (Commonwealth),31/12/2015,72691.47779
-Officer (Commonwealth),30/12/2016,72680.70104
-Officer (Commonwealth),31/12/2016,72680.6292
-Officer (Commonwealth),30/12/2017,72666.18835
-Officer (Commonwealth),31/12/2017,74784.12277
-Officer (Commonwealth),30/12/2018,74773.47555
-Officer (Commonwealth),31/12/2018,76161.46559
-Officer (Commonwealth),30/12/2019,76144.82175
-Officer (Commonwealth),31/12/2019,76906.07763
-Officer (Commonwealth),30/12/2020,76902.12227
-Officer (Commonwealth),31/12/2020,77441.92608
-Officer (Commonwealth),30/12/2021,77416.34218
-Officer (Commonwealth),31/12/2021,79925.26876
-Officer (Commonwealth),1/12/2022,79871.81
-Principal Officer (Commonwealth),31/12/2014,109303.6473
-Principal Officer (Commonwealth),30/12/2015,109285.6092
-Principal Officer (Commonwealth),31/12/2015,109658.9567
-Principal Officer (Commonwealth),30/12/2016,109642.6994
-Principal Officer (Commonwealth),31/12/2016,110061.4063
-Principal Officer (Commonwealth),30/12/2017,110039.5383
-Principal Officer (Commonwealth),31/12/2017,112908.9652
-Principal Officer (Commonwealth),30/12/2018,112892.89
-Principal Officer (Commonwealth),31/12/2018,115151.0917
-Principal Officer (Commonwealth),30/12/2019,115125.9273
-Principal Officer (Commonwealth),31/12/2019,116277.4153
-Principal Officer (Commonwealth),30/12/2020,116271.4351
-Principal Officer (Commonwealth),31/12/2020,117036.6554
-Principal Officer (Commonwealth),30/12/2021,116997.9909
-Principal Officer (Commonwealth),31/12/2021,120928.3941
-Principal Officer (Commonwealth),1/12/2022,120847.51
-Senior Officer (Commonwealth),31/12/2014,87881.69896
-Senior Officer (Commonwealth),30/12/2015,87867.19601
-Senior Officer (Commonwealth),31/12/2015,87947.12679
-Senior Officer (Commonwealth),30/12/2016,87934.08834
-Senior Officer (Commonwealth),31/12/2016,88277.95595
-Senior Officer (Commonwealth),30/12/2017,88260.41609
-Senior Officer (Commonwealth),31/12/2017,90471.40207
-Senior Officer (Commonwealth),30/12/2018,90458.52141
-Senior Officer (Commonwealth),31/12/2018,92267.71207
-Senior Officer (Commonwealth),30/12/2019,92247.54847
-Senior Officer (Commonwealth),31/12/2019,93169.5476
-Senior Officer (Commonwealth),30/12/2020,93164.7558
-Senior Officer (Commonwealth),31/12/2020,94137.25623
-Senior Officer (Commonwealth),30/12/2021,94106.15682
-Senior Officer (Commonwealth),31/12/2021,96896.54015
-Senior Officer (Commonwealth),1/12/2022,96831.73
-Economist (National),16/05/2014,88238.247
-Economist (National),20/05/2016,121183.9963
-Economist (National),18/05/2018,129373.2727
-Economist (National),21/05/2021,96361.8505
-Management Consultant - Contract (National),16/05/2014,105489.854
-Management Consultant - Contract (National),20/05/2016,114901.7504
-Management Consultant - Contract (National),18/05/2018,118249.1554
-Management Consultant - Contract (National),21/05/2021,124645.8576
-Policy Officer - Agreement (National),16/05/2014,90915.49363
-Policy Officer - Agreement (National),20/05/2016,90279.56964
-Policy Officer - Agreement (National),18/05/2018,94233.0939
-Policy Officer - Agreement (National),21/05/2021,110224.2844
-Regulatory Officer - Agreement (National),16/05/2014,76224.96083
-Regulatory Officer - Agreement (National),20/05/2016,70899.63279
-Regulatory Officer - Agreement (National),18/05/2018,75742.15135
-Regulatory Officer - Agreement (National),21/05/2021,83770.66716
-University Lecturer or Tutor (National),16/05/2014,77608.46895
-University Lecturer or Tutor (National),20/05/2016,81130.71904
-University Lecturer or Tutor (National),18/05/2018,93520.68601
-University Lecturer or Tutor (National),21/05/2021,93713.85132
-Junior Officer (NSW),1/07/2015,65734.6231
-Junior Officer (NSW),30/06/2016,65727.47688
-Junior Officer (NSW),1/07/2016,67370.45494
-Junior Officer (NSW),30/06/2017,67358.5354
-Junior Officer (NSW),1/07/2017,69042.50827
-Junior Officer (NSW),30/06/2018,69028.85739
-Junior Officer (NSW),1/07/2018,70754.66459
-Junior Officer (NSW),30/06/2019,70743.82067
-Junior Officer (NSW),1/07/2019,72512.39723
-Junior Officer (NSW),30/06/2020,72514.4051
-Junior Officer (NSW),1/07/2020,72731.94402
-Junior Officer (NSW),30/06/2021,72708.56844
-Junior Officer (NSW),1/07/2021,74191.60584
-Junior Officer (NSW),30/06/2022,74144.63496
-Junior Officer (NSW),1/07/2022,76020.32647
-Junior Officer (NSW),1/12/2022,76001.36375
-Manager (NSW),1/07/2015,126414.6145
-Manager (NSW),30/06/2016,126400.8715
-Manager (NSW),1/07/2016,129560.6198
-Manager (NSW),30/06/2017,129537.6973
-Manager (NSW),1/07/2017,132776.4179
-Manager (NSW),30/06/2018,132750.1657
-Manager (NSW),1/07/2018,136069.0355
-Manager (NSW),30/06/2019,136048.1814
-Manager (NSW),1/07/2019,139449.5819
-Manager (NSW),30/06/2020,139453.4432
-Manager (NSW),1/07/2020,139871.8359
-Manager (NSW),30/06/2021,139826.882
-Manager (NSW),1/07/2021,142679.2366
-Manager (NSW),30/06/2022,142588.9061
-Manager (NSW),1/07/2022,146196.0926
-Manager (NSW),1/12/2022,146159.625
-Officer (NSW),1/07/2015,88071.05136
-Officer (NSW),30/06/2016,88061.47688
-Officer (NSW),1/07/2016,90262.90561
-Officer (NSW),30/06/2017,90246.93581
-Officer (NSW),1/07/2017,92503.1914
-Officer (NSW),30/06/2018,92484.90195
-Officer (NSW),1/07/2018,94797.18776
-Officer (NSW),30/06/2019,94782.65907
-Officer (NSW),1/07/2019,97152.26346
-Officer (NSW),30/06/2020,97154.95361
-Officer (NSW),1/07/2020,97446.43807
-Officer (NSW),30/06/2021,97415.1194
-Officer (NSW),1/07/2021,99402.18988
-Officer (NSW),30/06/2022,99339.25812
-Officer (NSW),1/07/2022,101852.3438
-Officer (NSW),1/12/2022,101826.9375
-Principal Officer (NSW),1/07/2015,126414.6145
-Principal Officer (NSW),30/06/2016,126400.8715
-Principal Officer (NSW),1/07/2016,129560.6198
-Principal Officer (NSW),30/06/2017,129537.6973
-Principal Officer (NSW),1/07/2017,132776.4179
-Principal Officer (NSW),30/06/2018,132750.1657
-Principal Officer (NSW),1/07/2018,136069.0355
-Principal Officer (NSW),30/06/2019,136048.1814
-Principal Officer (NSW),1/07/2019,139449.5819
-Principal Officer (NSW),30/06/2020,139453.4432
-Principal Officer (NSW),1/07/2020,139871.8359
-Principal Officer (NSW),30/06/2021,139826.882
-Principal Officer (NSW),1/07/2021,142679.2366
-Principal Officer (NSW),30/06/2022,142588.9061
-Principal Officer (NSW),1/07/2022,146196.0926
-Principal Officer (NSW),1/12/2022,146159.625
-Senior Officer (NSW),1/07/2015,106597.7868
-Senior Officer (NSW),30/06/2016,106586.1982
-Senior Officer (NSW),1/07/2016,109250.7262
-Senior Officer (NSW),30/06/2017,109231.397
-Senior Officer (NSW),1/07/2017,111962.0681
-Senior Officer (NSW),30/06/2018,111939.9313
-Senior Officer (NSW),1/07/2018,114738.4419
-Senior Officer (NSW),30/06/2019,114720.857
-Senior Officer (NSW),1/07/2019,117588.8532
-Senior Officer (NSW),30/06/2020,117592.1092
-Senior Officer (NSW),1/07/2020,117945.0254
-Senior Officer (NSW),30/06/2021,117907.1186
-Senior Officer (NSW),1/07/2021,120312.4266
-Senior Officer (NSW),30/06/2022,120236.2565
-Senior Officer (NSW),1/07/2022,123278.0208
-Senior Officer (NSW),1/12/2022,123247.27
-Junior Officer (NT),14/08/2014,50301.53116
-Junior Officer (NT),12/08/2015,50294.32376
-Junior Officer (NT),13/08/2015,51803.03273
-Junior Officer (NT),10/08/2016,51796.58187
-Junior Officer (NT),11/08/2016,53350.37466
-Junior Officer (NT),9/08/2017,53341.19909
-Junior Officer (NT),10/08/2017,54674.59926
-Junior Officer (NT),22/08/2018,54662.87012
-Junior Officer (NT),23/08/2018,56029.49244
-Junior Officer (NT),21/08/2019,56020.57261
-Junior Officer (NT),22/08/2019,57421.22174
-Junior Officer (NT),19/08/2020,57416.22441
-Junior Officer (NT),20/08/2020,58851.61808
-Junior Officer (NT),9/08/2021,58840.20938
-Junior Officer (NT),10/08/2021,62883.61517
-Junior Officer (NT),9/08/2022,62841.625
-Junior Officer (NT),10/08/2022,60821.243
-Junior Officer (NT),1/12/2022,60809.74333
-Manager (NT),14/08/2014,128680.9714
-Manager (NT),12/08/2015,128662.5335
-Manager (NT),13/08/2015,132522.3353
-Manager (NT),10/08/2016,132505.8327
-Manager (NT),11/08/2016,136481.0279
-Manager (NT),9/08/2017,136457.555
-Manager (NT),10/08/2017,139868.7747
-Manager (NT),22/08/2018,139838.7691
-Manager (NT),23/08/2018,143334.8816
-Manager (NT),21/08/2019,143312.0629
-Manager (NT),22/08/2019,146894.915
-Manager (NT),19/08/2020,146882.1309
-Manager (NT),20/08/2020,150554.0211
-Manager (NT),9/08/2021,150524.8354
-Manager (NT),10/08/2021,154568.1505
-Manager (NT),9/08/2022,154464.9385
-Manager (NT),10/08/2022,152444.5565
-Manager (NT),1/12/2022,152415.7333
-Officer (NT),14/08/2014,68691.42457
-Officer (NT),12/08/2015,68681.5822
-Officer (NT),13/08/2015,70742.12185
-Officer (NT),10/08/2016,70733.31258
-Officer (NT),11/08/2016,72855.12528
-Officer (NT),9/08/2017,72842.59516
-Officer (NT),10/08/2017,74663.68813
-Officer (NT),22/08/2018,74647.67081
-Officer (NT),23/08/2018,76513.99461
-Officer (NT),21/08/2019,76501.81367
-Officer (NT),22/08/2019,78414.46575
-Officer (NT),19/08/2020,78407.64139
-Officer (NT),20/08/2020,80367.82511
-Officer (NT),9/08/2021,80352.24537
-Officer (NT),10/08/2021,84395.62988
-Officer (NT),9/08/2022,84339.27518
-Officer (NT),10/08/2022,82318.89318
-Officer (NT),1/12/2022,82303.32889
-Principal Officer (NT),14/08/2014,112907.9605
-Principal Officer (NT),12/08/2015,112891.7826
-Principal Officer (NT),13/08/2015,116278.3843
-Principal Officer (NT),10/08/2016,116263.9046
-Principal Officer (NT),11/08/2016,119751.474
-Principal Officer (NT),9/08/2017,119730.8783
-Principal Officer (NT),10/08/2017,122723.9986
-Principal Officer (NT),22/08/2018,122697.6711
-Principal Officer (NT),23/08/2018,125764.9864
-Principal Officer (NT),21/08/2019,125744.9648
-Principal Officer (NT),22/08/2019,128888.6395
-Principal Officer (NT),19/08/2020,128877.4224
-Principal Officer (NT),20/08/2020,132099.4252
-Principal Officer (NT),9/08/2021,132073.817
-Principal Officer (NT),10/08/2021,136117.1504
-Principal Officer (NT),9/08/2022,136026.2589
-Principal Officer (NT),10/08/2022,134005.8769
-Principal Officer (NT),1/12/2022,133980.54
-Senior Officer (NT),14/08/2014,90529.43847
-Senior Officer (NT),12/08/2015,90516.46706
-Senior Officer (NT),13/08/2015,93231.93505
-Senior Officer (NT),10/08/2016,93220.32519
-Senior Officer (NT),11/08/2016,96016.87473
-Senior Officer (NT),9/08/2017,96000.36109
-Senior Officer (NT),10/08/2017,98400.29064
-Senior Officer (NT),22/08/2018,98379.18119
-Senior Officer (NT),23/08/2018,100838.6968
-Senior Officer (NT),21/08/2019,100822.6434
-Senior Officer (NT),22/08/2019,103343.3034
-Senior Officer (NT),19/08/2020,103334.3095
-Senior Officer (NT),20/08/2020,105917.5155
-Senior Officer (NT),9/08/2021,105896.9828
-Senior Officer (NT),10/08/2021,109940.3421
-Senior Officer (NT),9/08/2022,109866.93
-Senior Officer (NT),10/08/2022,107846.548
-Senior Officer (NT),1/12/2022,107826.1571
-Junior Officer (Queensland),1/09/2015,49470.25745
-Junior Officer (Queensland),1/06/2016,49466.19942
-Junior Officer (Queensland),2/06/2016,50781.42033
-Junior Officer (Queensland),31/08/2016,50778.86055
-Junior Officer (Queensland),1/09/2016,50699.88089
-Junior Officer (Queensland),31/08/2017,50691.2112
-Junior Officer (Queensland),1/09/2017,51958.37853
-Junior Officer (Queensland),31/08/2019,51939.42428
-Junior Officer (Queensland),1/09/2019,55070.76289
-Junior Officer (Queensland),29/06/2020,55074.4664
-Junior Officer (Queensland),30/06/2020,56338.49265
-Junior Officer (Queensland),31/08/2020,56328.96567
-Junior Officer (Queensland),1/09/2020,56064.48694
-Junior Officer (Queensland),31/08/2021,56052.95296
-Junior Officer (Queensland),1/09/2021,57455.14531
-Junior Officer (Queensland),28/02/2022,57437.18417
-Junior Officer (Queensland),1/03/2022,58872.82783
-Junior Officer (Queensland),31/08/2022,58852.6699
-Junior Officer (Queensland),1/09/2022,60324.23166
-Junior Officer (Queensland),1/12/2022,60313.90067
-Manager (Queensland),1/09/2015,113245.0254
-Manager (Queensland),1/06/2016,113235.736
-Manager (Queensland),2/06/2016,114550.8939
-Manager (Queensland),31/08/2016,114545.1196
-Manager (Queensland),1/09/2016,116060.8916
-Manager (Queensland),31/08/2017,116041.0452
-Manager (Queensland),1/09/2017,118941.0788
-Manager (Queensland),31/08/2019,118897.6894
-Manager (Queensland),1/09/2019,123955.224
-Manager (Queensland),29/06/2020,123963.5599
-Manager (Queensland),30/06/2020,125227.5862
-Manager (Queensland),31/08/2020,125206.4099
-Manager (Queensland),1/09/2020,126203.1804
-Manager (Queensland),31/08/2021,126177.217
-Manager (Queensland),1/09/2021,129332.0486
-Manager (Queensland),28/02/2022,129291.6179
-Manager (Queensland),1/03/2022,132523.1296
-Manager (Queensland),31/08/2022,132477.754
-Manager (Queensland),1/09/2022,135789.7275
-Manager (Queensland),1/12/2022,135766.4725
-Officer (Queensland),1/09/2015,75420.54341
-Officer (Queensland),1/06/2016,75414.3567
-Officer (Queensland),2/06/2016,76729.55196
-Officer (Queensland),31/08/2016,76725.68418
-Officer (Queensland),1/09/2016,77295.26847
-Officer (Queensland),31/08/2017,77282.05096
-Officer (Queensland),1/09/2017,79214.31086
-Officer (Queensland),31/08/2019,79185.41374
-Officer (Queensland),1/09/2019,83367.28976
-Officer (Queensland),29/06/2020,83372.8962
-Officer (Queensland),30/06/2020,84636.92245
-Officer (Queensland),31/08/2020,84622.61014
-Officer (Queensland),1/09/2020,84876.17336
-Officer (Queensland),31/08/2021,84858.71204
-Officer (Queensland),1/09/2021,86980.42156
-Officer (Queensland),28/02/2022,86953.23047
-Officer (Queensland),1/03/2022,89126.72717
-Officer (Queensland),31/08/2022,89096.21035
-Officer (Queensland),1/09/2022,91323.93244
-Officer (Queensland),1/12/2022,91308.2925
-Principal Officer (Queensland),1/09/2015,102939.7898
-Principal Officer (Queensland),1/06/2016,102931.3457
-Principal Officer (Queensland),2/06/2016,104246.5138
-Principal Officer (Queensland),31/08/2016,104241.2589
-Principal Officer (Queensland),1/09/2016,105499.5546
-Principal Officer (Queensland),31/08/2017,105481.5142
-Principal Officer (Queensland),1/09/2017,108118.552
-Principal Officer (Queensland),31/08/2019,108079.1107
-Principal Officer (Queensland),1/09/2019,112882.593
-Principal Officer (Queensland),29/06/2020,112890.1844
-Principal Officer (Queensland),30/06/2020,114154.2106
-Principal Officer (Queensland),31/08/2020,114134.9069
-Principal Officer (Queensland),1/09/2020,114920.3791
-Principal Officer (Queensland),31/08/2021,114896.7368
-Principal Officer (Queensland),1/09/2021,117769.0612
-Principal Officer (Queensland),28/02/2022,117732.2453
-Principal Officer (Queensland),1/03/2022,120675.0353
-Principal Officer (Queensland),31/08/2022,120633.7164
-Principal Officer (Queensland),1/09/2022,123649.721
-Principal Officer (Queensland),1/12/2022,123628.545
-Senior Officer (Queensland),1/09/2015,91892.37694
-Senior Officer (Queensland),1/06/2016,91884.83905
-Senior Officer (Queensland),2/06/2016,93200.01803
-Senior Officer (Queensland),31/08/2016,93195.32001
-Senior Officer (Queensland),1/09/2016,94177.92878
-Senior Officer (Queensland),31/08/2017,94161.82434
-Senior Officer (Queensland),1/09/2017,96515.88891
-Senior Officer (Queensland),31/08/2019,96480.68022
-Senior Officer (Queensland),1/09/2019,101046.5416
-Senior Officer (Queensland),29/06/2020,101053.337
-Senior Officer (Queensland),30/06/2020,102317.3632
-Senior Officer (Queensland),31/08/2020,102300.0611
-Senior Officer (Queensland),1/09/2020,102872.4664
-Senior Officer (Queensland),31/08/2021,102851.3028
-Senior Officer (Queensland),1/09/2021,105422.1683
-Senior Officer (Queensland),28/02/2022,105389.2121
-Senior Officer (Queensland),1/03/2022,108023.3249
-Senior Officer (Queensland),31/08/2022,107986.3379
-Senior Officer (Queensland),1/09/2022,110686.1709
-Senior Officer (Queensland),1/12/2022,110667.215
-Junior Officer (SA),1/10/2014,49164.47709
-Junior Officer (SA),30/09/2015,49157.67546
-Junior Officer (SA),1/10/2015,50386.53935
-Junior Officer (SA),30/09/2016,50379.21911
-Junior Officer (SA),1/10/2016,51638.6764
-Junior Officer (SA),30/09/2017,51629.99918
-Junior Officer (SA),1/10/2017,53147.26418
-Junior Officer (SA),30/09/2018,53136.02008
-Junior Officer (SA),1/10/2018,54652.96408
-Junior Officer (SA),30/09/2019,54644.31728
-Junior Officer (SA),1/10/2019,56160.96574
-Junior Officer (SA),31/07/2021,56146.63577
-Junior Officer (SA),1/08/2021,56988.89266
-Junior Officer (SA),8/12/2021,56979.19603
-Junior Officer (SA),9/12/2021,57989.84265
-Junior Officer (SA),31/07/2022,57960.98265
-Junior Officer (SA),1/08/2022,57804.76535
-Junior Officer (SA),1/12/2022,57793.37833
-Manager (SA),1/10/2014,101658.8316
-Manager (SA),30/09/2015,101644.7677
-Manager (SA),1/10/2015,104185.8025
-Manager (SA),30/09/2016,104170.6662
-Manager (SA),1/10/2016,106775.0678
-Manager (SA),30/09/2017,106757.1256
-Manager (SA),1/10/2017,108577.8436
-Manager (SA),30/09/2018,108554.8723
-Manager (SA),1/10/2018,110375.2051
-Manager (SA),30/09/2019,110357.7424
-Manager (SA),1/10/2019,112177.6762
-Manager (SA),31/07/2021,112149.0531
-Manager (SA),1/08/2021,113831.0398
-Manager (SA),8/12/2021,113811.6715
-Manager (SA),9/12/2021,114822.2619
-Manager (SA),31/07/2022,114765.1179
-Manager (SA),1/08/2022,115461.3682
-Manager (SA),1/12/2022,115438.6233
-Officer (SA),1/10/2016,70491.83904
-Officer (SA),30/09/2017,70479.99378
-Officer (SA),1/10/2017,71997.25878
-Officer (SA),30/09/2018,71982.02669
-Officer (SA),1/10/2018,73498.97069
-Officer (SA),30/09/2019,73487.34221
-Officer (SA),1/10/2019,75003.97203
-Officer (SA),31/07/2021,74984.83411
-Officer (SA),1/08/2021,76109.35948
-Officer (SA),8/12/2021,76096.40951
-Officer (SA),9/12/2021,77107.03722
-Officer (SA),31/07/2022,77068.6631
-Officer (SA),1/08/2022,77199.40758
-Officer (SA),1/12/2022,77184.2
-Principal Officer (SA),1/10/2014,101129.621
-Principal Officer (SA),30/09/2015,101115.6303
-Principal Officer (SA),1/10/2015,103643.6078
-Principal Officer (SA),30/09/2016,103628.5503
-Principal Officer (SA),1/10/2016,106219.1737
-Principal Officer (SA),30/09/2017,106201.3249
-Principal Officer (SA),1/10/2017,108022.0429
-Principal Officer (SA),30/09/2018,107999.1893
-Principal Officer (SA),1/10/2018,109819.5221
-Principal Officer (SA),30/09/2019,109802.1472
-Principal Officer (SA),1/10/2019,111622.0816
-Principal Officer (SA),31/07/2021,111593.6003
-Principal Officer (SA),1/08/2021,113267.5005
-Principal Officer (SA),8/12/2021,113248.2281
-Principal Officer (SA),9/12/2021,114258.8191
-Principal Officer (SA),31/07/2022,114201.9555
-Principal Officer (SA),1/08/2022,114889.4993
-Principal Officer (SA),1/12/2022,114866.8671
-Senior Officer (SA),1/10/2014,81162.3556
-Senior Officer (SA),30/09/2015,81151.12724
-Senior Officer (SA),1/10/2015,83179.98492
-Senior Officer (SA),30/09/2016,83167.90039
-Senior Officer (SA),1/10/2016,85247.19184
-Senior Officer (SA),30/09/2017,85232.86713
-Senior Officer (SA),1/10/2017,87053.58513
-Senior Officer (SA),30/09/2018,87035.16765
-Senior Officer (SA),1/10/2018,88855.50045
-Senior Officer (SA),30/09/2019,88841.44237
-Senior Officer (SA),1/10/2019,90661.39751
-Senior Officer (SA),31/07/2021,90638.26445
-Senior Officer (SA),1/08/2021,91997.6586
-Senior Officer (SA),8/12/2021,91982.00525
-Senior Officer (SA),9/12/2021,92992.61724
-Senior Officer (SA),31/07/2022,92946.33729
-Senior Officer (SA),1/08/2022,93314.96791
-Senior Officer (SA),1/12/2022,93296.58571
-Junior Officer (Tasmania),1/12/2014,53102.9458
-Junior Officer (Tasmania),30/11/2015,53094.65465
-Junior Officer (Tasmania),1/12/2015,54190.70062
-Junior Officer (Tasmania),30/11/2016,54182.66679
-Junior Officer (Tasmania),1/12/2016,55364.48553
-Junior Officer (Tasmania),30/11/2017,55353.32119
-Junior Officer (Tasmania),1/12/2017,56558.5785
-Junior Officer (Tasmania),30/11/2018,56549.40781
-Junior Officer (Tasmania),1/12/2018,57736.9726
-Junior Officer (Tasmania),18/08/2019,57729.89305
-Junior Officer (Tasmania),19/08/2019,57960.9078
-Junior Officer (Tasmania),30/11/2019,57957.75512
-Junior Officer (Tasmania),1/12/2019,59202.07087
-Junior Officer (Tasmania),30/11/2020,59197.56235
-Junior Officer (Tasmania),1/12/2020,60559.07948
-Junior Officer (Tasmania),30/11/2021,60540.69051
-Junior Officer (Tasmania),1/12/2021,61963.31022
-Junior Officer (Tasmania),30/11/2022,61919.78259
-Junior Officer (Tasmania),1/12/2022,65654.848
-Manager (Tasmania),1/12/2014,114567.4734
-Manager (Tasmania),30/11/2015,114549.5856
-Manager (Tasmania),1/12/2015,116840.5469
-Manager (Tasmania),30/11/2016,116823.2252
-Manager (Tasmania),1/12/2016,119159.5061
-Manager (Tasmania),30/11/2017,119135.4774
-Manager (Tasmania),1/12/2017,121517.9416
-Manager (Tasmania),30/11/2018,121498.2381
-Manager (Tasmania),1/12/2018,124049.8101
-Manager (Tasmania),18/08/2019,124034.5995
-Manager (Tasmania),19/08/2019,124466.109
-Manager (Tasmania),30/11/2019,124459.3389
-Manager (Tasmania),1/12/2019,127198.0236
-Manager (Tasmania),30/11/2020,127188.3369
-Manager (Tasmania),1/12/2020,130113.6004
-Manager (Tasmania),30/11/2021,130074.0909
-Manager (Tasmania),1/12/2021,133130.8637
-Manager (Tasmania),30/11/2022,133037.3427
-Manager (Tasmania),1/12/2022,138738.65
-Officer (Tasmania),1/12/2014,73622.39413
-Officer (Tasmania),30/11/2015,73610.89921
-Officer (Tasmania),1/12/2015,75083.15583
-Officer (Tasmania),30/11/2016,75072.02467
-Officer (Tasmania),1/12/2016,76573.41706
-Officer (Tasmania),30/11/2017,76557.97591
-Officer (Tasmania),1/12/2017,78088.86884
-Officer (Tasmania),30/11/2018,78076.20712
-Officer (Tasmania),1/12/2018,79715.93208
-Officer (Tasmania),18/08/2019,79706.15753
-Officer (Tasmania),19/08/2019,80021.91304
-Officer (Tasmania),30/11/2019,80017.56038
-Officer (Tasmania),1/12/2019,81739.08152
-Officer (Tasmania),30/11/2020,81732.8567
-Officer (Tasmania),1/12/2020,83612.53963
-Officer (Tasmania),30/11/2021,83587.1504
-Officer (Tasmania),1/12/2021,85551.34247
-Officer (Tasmania),30/11/2022,85491.24484
-Officer (Tasmania),1/12/2022,89528.51182
-Principal Officer (Tasmania),1/12/2014,104431.4791
-Principal Officer (Tasmania),30/11/2015,104415.1739
-Principal Officer (Tasmania),1/12/2015,106503.2699
-Principal Officer (Tasmania),30/11/2016,106487.4807
-Principal Officer (Tasmania),1/12/2016,108617.1432
-Principal Officer (Tasmania),30/11/2017,108595.2404
-Principal Officer (Tasmania),1/12/2017,110767.093
-Principal Officer (Tasmania),30/11/2018,110749.1327
-Principal Officer (Tasmania),1/12/2018,113074.9265
-Principal Officer (Tasmania),18/08/2019,113061.0615
-Principal Officer (Tasmania),19/08/2019,113465.0172
-Principal Officer (Tasmania),30/11/2019,113458.8454
-Principal Officer (Tasmania),1/12/2019,115944.239
-Principal Officer (Tasmania),30/11/2020,115935.4093
-Principal Officer (Tasmania),1/12/2020,118601.8625
-Principal Officer (Tasmania),30/11/2021,118565.8486
-Principal Officer (Tasmania),1/12/2021,121352.0144
-Principal Officer (Tasmania),30/11/2022,121266.7677
-Principal Officer (Tasmania),1/12/2022,126556.2825
-Senior Officer (Tasmania),1/12/2014,91699.02515
-Senior Officer (Tasmania),30/11/2015,91684.70787
-Senior Officer (Tasmania),1/12/2015,93518.37312
-Senior Officer (Tasmania),30/11/2016,93504.50892
-Senior Officer (Tasmania),1/12/2016,95374.6609
-Senior Officer (Tasmania),30/11/2017,95355.42845
-Senior Officer (Tasmania),1/12/2017,97262.38226
-Senior Officer (Tasmania),30/11/2018,97246.61165
-Senior Officer (Tasmania),1/12/2018,99288.76501
-Senior Officer (Tasmania),18/08/2019,99276.59049
-Senior Officer (Tasmania),19/08/2019,99646.09469
-Senior Officer (Tasmania),30/11/2019,99640.67461
-Senior Officer (Tasmania),1/12/2019,101808.2805
-Senior Officer (Tasmania),30/11/2020,101800.5273
-Senior Officer (Tasmania),1/12/2020,104142.0957
-Senior Officer (Tasmania),30/11/2021,104110.4726
-Senior Officer (Tasmania),1/12/2021,106556.8726
-Senior Officer (Tasmania),30/11/2022,106482.0191
-Senior Officer (Tasmania),1/12/2022,111253.9529
-Junior Officer (Victoria),1/01/2016,52237.98677
-Junior Officer (Victoria),30/06/2016,52235.19877
-Junior Officer (Victoria),1/07/2016,53018.64905
-Junior Officer (Victoria),31/12/2016,53013.67066
-Junior Officer (Victoria),1/01/2017,53941.44277
-Junior Officer (Victoria),30/06/2017,53936.96378
-Junior Officer (Victoria),1/07/2017,54745.98843
-Junior Officer (Victoria),31/12/2017,54739.65626
-Junior Officer (Victoria),1/01/2018,55697.64017
-Junior Officer (Victoria),30/06/2018,55693.06951
-Junior Officer (Victoria),1/07/2018,56528.55126
-Junior Officer (Victoria),31/12/2018,56525.08581
-Junior Officer (Victoria),1/01/2019,57514.39329
-Junior Officer (Victoria),30/06/2019,57509.04728
-Junior Officer (Victoria),1/07/2019,58371.70135
-Junior Officer (Victoria),19/03/2020,58361.94573
-Junior Officer (Victoria),20/03/2020,59237.11465
-Junior Officer (Victoria),30/06/2020,59248.71572
-Junior Officer (Victoria),1/07/2020,60024.74801
-Junior Officer (Victoria),30/11/2020,60012.93563
-Junior Officer (Victoria),1/12/2020,59977.54375
-Junior Officer (Victoria),30/06/2021,59970.12828
-Junior Officer (Victoria),1/07/2021,60761.33372
-Junior Officer (Victoria),31/08/2021,60758.08797
-Junior Officer (Victoria),1/09/2021,60866.28713
-Junior Officer (Victoria),31/05/2022,60835.99967
-Junior Officer (Victoria),1/06/2022,61596.17438
-Junior Officer (Victoria),30/06/2022,61591.41902
-Junior Officer (Victoria),1/07/2022,62398.26795
-Junior Officer (Victoria),1/12/2022,62382.70316
-Manager (Victoria),1/01/2016,127688.7858
-Manager (Victoria),30/06/2016,127681.9709
-Manager (Victoria),1/07/2016,129597.042
-Manager (Victoria),31/12/2016,129584.8729
-Manager (Victoria),1/01/2017,131852.6967
-Manager (Victoria),30/06/2017,131841.7485
-Manager (Victoria),1/07/2017,133819.3228
-Manager (Victoria),31/12/2017,133803.8447
-Manager (Victoria),1/01/2018,136145.3052
-Manager (Victoria),30/06/2018,136134.1328
-Manager (Victoria),1/07/2018,138176.179
-Manager (Victoria),31/12/2018,138167.7082
-Manager (Victoria),1/01/2019,140585.8321
-Manager (Victoria),30/06/2019,140572.7645
-Manager (Victoria),1/07/2019,142681.3547
-Manager (Victoria),19/03/2020,142657.5084
-Manager (Victoria),20/03/2020,144797.4503
-Manager (Victoria),30/06/2020,144825.8076
-Manager (Victoria),1/07/2020,146757.2397
-Manager (Victoria),30/11/2020,146728.3591
-Manager (Victoria),1/12/2020,146606.8914
-Manager (Victoria),30/06/2021,146588.7653
-Manager (Victoria),1/07/2021,148558.3492
-Manager (Victoria),31/08/2021,148550.4135
-Manager (Victoria),1/09/2021,148779.0747
-Manager (Victoria),31/05/2022,148705.0412
-Manager (Victoria),1/06/2022,150563.6124
-Manager (Victoria),30/06/2022,150551.9886
-Manager (Victoria),1/07/2022,152559.9225
-Manager (Victoria),1/12/2022,152521.8675
-Officer (Victoria),1/01/2016,74206.0421
-Officer (Victoria),30/06/2016,74202.08163
-Officer (Victoria),1/07/2016,75315.01931
-Officer (Victoria),31/12/2016,75307.94731
-Officer (Victoria),1/01/2017,76625.82149
-Officer (Victoria),30/06/2017,76619.45892
-Officer (Victoria),1/07/2017,77768.8011
-Officer (Victoria),31/12/2017,77759.80602
-Officer (Victoria),1/01/2018,79120.5727
-Officer (Victoria),30/06/2018,79114.07991
-Officer (Victoria),1/07/2018,80300.91883
-Officer (Victoria),31/12/2018,80295.99603
-Officer (Victoria),1/01/2019,81701.09017
-Officer (Victoria),30/06/2019,81693.49599
-Officer (Victoria),1/07/2019,82918.89337
-Officer (Victoria),19/03/2020,82905.03519
-Officer (Victoria),20/03/2020,84148.51148
-Officer (Victoria),30/06/2020,84164.99123
-Officer (Victoria),1/07/2020,85266.77269
-Officer (Victoria),30/11/2020,85249.99289
-Officer (Victoria),1/12/2020,85200.20003
-Officer (Victoria),30/06/2021,85189.6661
-Officer (Victoria),1/07/2021,86312.74234
-Officer (Victoria),31/08/2021,86308.13168
-Officer (Victoria),1/09/2021,86462.7316
-Officer (Victoria),31/05/2022,86419.70719
-Officer (Victoria),1/06/2022,87499.77721
-Officer (Victoria),30/06/2022,87493.02202
-Officer (Victoria),1/07/2022,88570.36434
-Officer (Victoria),1/12/2022,88548.27111
-Principal Officer (Victoria),1/01/2016,127688.7858
-Principal Officer (Victoria),30/06/2016,127681.9709
-Principal Officer (Victoria),1/07/2016,129597.042
-Principal Officer (Victoria),31/12/2016,129584.8729
-Principal Officer (Victoria),1/01/2017,131852.6967
-Principal Officer (Victoria),30/06/2017,131841.7485
-Principal Officer (Victoria),1/07/2017,133819.3228
-Principal Officer (Victoria),31/12/2017,133803.8447
-Principal Officer (Victoria),1/01/2018,136145.3052
-Principal Officer (Victoria),30/06/2018,136134.1328
-Principal Officer (Victoria),1/07/2018,138176.179
-Principal Officer (Victoria),31/12/2018,138167.7082
-Principal Officer (Victoria),1/01/2019,140585.8321
-Principal Officer (Victoria),30/06/2019,140572.7645
-Principal Officer (Victoria),1/07/2019,142681.3547
-Principal Officer (Victoria),19/03/2020,142657.5084
-Principal Officer (Victoria),20/03/2020,144797.4503
-Principal Officer (Victoria),30/06/2020,144825.8076
-Principal Officer (Victoria),1/07/2020,146757.2397
-Principal Officer (Victoria),30/11/2020,146728.3591
-Principal Officer (Victoria),1/12/2020,146606.8914
-Principal Officer (Victoria),30/06/2021,146588.7653
-Principal Officer (Victoria),1/07/2021,148558.3492
-Principal Officer (Victoria),31/08/2021,148550.4135
-Principal Officer (Victoria),1/09/2021,148779.0747
-Principal Officer (Victoria),31/05/2022,148705.0412
-Principal Officer (Victoria),1/06/2022,150563.6124
-Principal Officer (Victoria),30/06/2022,150551.9886
-Principal Officer (Victoria),1/07/2022,152559.9225
-Principal Officer (Victoria),1/12/2022,152521.8675
-Senior Officer (Victoria),1/01/2016,98389.63156
-Senior Officer (Victoria),30/06/2016,98384.38039
-Senior Officer (Victoria),1/07/2016,99860.13845
-Senior Officer (Victoria),31/12/2016,99850.76169
-Senior Officer (Victoria),1/01/2017,101597.8484
-Senior Officer (Victoria),30/06/2017,101589.4123
-Senior Officer (Victoria),1/07/2017,103113.055
-Senior Officer (Victoria),31/12/2017,103101.1285
-Senior Officer (Victoria),1/01/2018,104905.2667
-Senior Officer (Victoria),30/06/2018,104896.658
-Senior Officer (Victoria),1/07/2018,106470.4192
-Senior Officer (Victoria),31/12/2018,106463.8921
-Senior Officer (Victoria),1/01/2019,108326.788
-Senior Officer (Victoria),30/06/2019,108316.719
-Senior Officer (Victoria),1/07/2019,109941.4533
-Senior Officer (Victoria),19/03/2020,109923.0789
-Senior Officer (Victoria),20/03/2020,111571.9487
-Senior Officer (Victoria),30/06/2020,111593.7991
-Senior Officer (Victoria),1/07/2020,113047.9349
-Senior Officer (Victoria),30/11/2020,113025.688
-Senior Officer (Victoria),1/12/2020,112965.9259
-Senior Officer (Victoria),30/06/2021,112951.9591
-Senior Officer (Victoria),1/07/2021,114434.3249
-Senior Officer (Victoria),31/08/2021,114428.212
-Senior Officer (Victoria),1/09/2021,114639.7564
-Senior Officer (Victoria),31/05/2022,114582.7109
-Senior Officer (Victoria),1/06/2022,116014.7703
-Senior Officer (Victoria),30/06/2022,116005.8137
-Senior Officer (Victoria),1/07/2022,117516.8062
-Senior Officer (Victoria),1/12/2022,117487.4925
-Junior Officer (WA),13/06/2015,61085.98722
-Junior Officer (WA),12/06/2016,61079.10499
-Junior Officer (WA),13/06/2016,62605.90345
-Junior Officer (WA),12/06/2017,62594.33198
-Junior Officer (WA),13/06/2017,63605.88398
-Junior Officer (WA),12/06/2018,63592.67929
-Junior Officer (WA),13/06/2018,64604.02129
-Junior Officer (WA),12/06/2019,64594.18385
-Junior Officer (WA),13/06/2019,65605.37185
-Junior Officer (WA),12/06/2020,65607.12359
-Junior Officer (WA),13/06/2020,66618.40447
-Junior Officer (WA),12/06/2021,66598.3771
-Junior Officer (WA),13/06/2021,67609.22222
-Junior Officer (WA),12/06/2022,67568.62637
-Junior Officer (WA),13/06/2022,70720.56485
-Junior Officer (WA),1/12/2022,70699.495
-Manager (WA),13/06/2015,134997.0426
-Manager (WA),12/06/2016,134981.8332
-Manager (WA),13/06/2016,138356.32
-Manager (WA),12/06/2017,138330.7476
-Manager (WA),13/06/2017,139342.2996
-Manager (WA),12/06/2018,139313.3718
-Manager (WA),13/06/2018,140324.7138
-Manager (WA),12/06/2019,140303.3462
-Manager (WA),13/06/2019,141314.5342
-Manager (WA),12/06/2020,141318.3075
-Manager (WA),13/06/2020,142329.6632
-Manager (WA),12/06/2021,142286.8749
-Manager (WA),13/06/2021,143297.6452
-Manager (WA),12/06/2022,143211.6023
-Manager (WA),13/06/2022,147507.3137
-Manager (WA),1/12/2022,147463.3667
-Officer (WA),13/06/2015,83725.48738
-Officer (WA),12/06/2016,83716.05449
-Officer (WA),13/06/2016,85809.05341
-Officer (WA),12/06/2017,85793.1933
-Officer (WA),13/06/2017,86804.7453
-Officer (WA),12/06/2018,86786.72448
-Officer (WA),13/06/2018,87798.06648
-Officer (WA),12/06/2019,87784.69721
-Officer (WA),13/06/2019,88795.88521
-Officer (WA),12/06/2020,88798.25617
-Officer (WA),13/06/2020,89809.55999
-Officer (WA),12/06/2021,89782.5607
-Officer (WA),13/06/2021,90793.38289
-Officer (WA),12/06/2022,90738.86614
-Officer (WA),13/06/2022,93890.73582
-Officer (WA),1/12/2022,93862.76286
-Principal Officer (WA),13/06/2015,118282.5801
-Principal Officer (WA),12/06/2016,118269.2539
-Principal Officer (WA),13/06/2016,121226.2297
-Principal Officer (WA),12/06/2017,121203.8235
-Principal Officer (WA),13/06/2017,122215.3755
-Principal Officer (WA),12/06/2018,122190.0033
-Principal Officer (WA),13/06/2018,123201.3453
-Principal Officer (WA),12/06/2019,123182.5851
-Principal Officer (WA),13/06/2019,124193.7731
-Principal Officer (WA),12/06/2020,124197.0892
-Principal Officer (WA),13/06/2020,125208.428
-Principal Officer (WA),12/06/2021,125170.7869
-Principal Officer (WA),13/06/2021,126181.574
-Principal Officer (WA),12/06/2022,126105.8085
-Principal Officer (WA),13/06/2022,129888.6745
-Principal Officer (WA),1/12/2022,129849.9767
-Senior Officer (WA),13/06/2015,102853.3397
-Senior Officer (WA),12/06/2016,102841.7517
-Senior Officer (WA),13/06/2016,105412.8335
-Senior Officer (WA),12/06/2017,105393.35
-Senior Officer (WA),13/06/2017,106404.902
-Senior Officer (WA),12/06/2018,106382.8121
-Senior Officer (WA),13/06/2018,107394.1541
-Senior Officer (WA),12/06/2019,107377.8009
-Senior Officer (WA),13/06/2019,108388.9889
-Senior Officer (WA),12/06/2020,108391.883
-Senior Officer (WA),13/06/2020,109403.2062
-Senior Officer (WA),12/06/2021,109370.3166
-Senior Officer (WA),13/06/2021,110381.1194
-Senior Officer (WA),12/06/2022,110314.8412
-Senior Officer (WA),13/06/2022,113624.5123
-Senior Officer (WA),1/12/2022,113590.66
+"Date","Economist (National)","Junior Officer (ACT)","Junior Officer (Commonwealth)","Junior Officer (NSW)","Junior Officer (NT)","Junior Officer (Queensland)","Junior Officer (SA)","Junior Officer (Tasmania)","Junior Officer (Victoria)","Junior Officer (WA)","Management Consultant - Contract (National)","Manager (ACT)","Manager (Commonwealth)","Manager (NSW)","Manager (NT)","Manager (Queensland)","Manager (SA)","Manager (Tasmania)","Manager (Victoria)","Manager (WA)","Officer (ACT)","Officer (Commonwealth)","Officer (NSW)","Officer (NT)","Officer (Queensland)","Officer (SA)","Officer (Tasmania)","Officer (Victoria)","Officer (WA)","Policy Officer - Agreement (National)","Principal Officer (ACT)","Principal Officer (Commonwealth)","Principal Officer (NSW)","Principal Officer (NT)","Principal Officer (Queensland)","Principal Officer (SA)","Principal Officer (Tasmania)","Principal Officer (Victoria)","Principal Officer (WA)","Regulatory Officer - Agreement (National)","Senior Officer (ACT)","Senior Officer (Commonwealth)","Senior Officer (NSW)","Senior Officer (NT)","Senior Officer (Queensland)","Senior Officer (SA)","Senior Officer (Tasmania)","Senior Officer (Victoria)","Senior Officer (WA)","University Lecturer or Tutor (National)"
+2014-05-16,88238.247,NA,NA,NA,NA,NA,NA,NA,NA,NA,105489.854,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90915.49363,NA,NA,NA,NA,NA,NA,NA,NA,NA,76224.96083,NA,NA,NA,NA,NA,NA,NA,NA,NA,77608.46895
+2014-08-14,NA,NA,NA,NA,50301.53116,NA,NA,NA,NA,NA,NA,NA,NA,NA,128680.9714,NA,NA,NA,NA,NA,NA,NA,NA,68691.42457,NA,NA,NA,NA,NA,NA,NA,NA,NA,112907.9605,NA,NA,NA,NA,NA,NA,NA,NA,NA,90529.43847,NA,NA,NA,NA,NA,NA
+2014-10-01,NA,NA,NA,NA,NA,NA,49164.47709,NA,NA,NA,NA,NA,NA,NA,NA,NA,101658.8316,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,101129.621,NA,NA,NA,NA,NA,NA,NA,NA,NA,81162.3556,NA,NA,NA,NA
+2014-12-01,NA,NA,NA,NA,NA,NA,NA,53102.9458,NA,NA,NA,NA,NA,NA,NA,NA,NA,114567.4734,NA,NA,NA,NA,NA,NA,NA,NA,73622.39413,NA,NA,NA,NA,NA,NA,NA,NA,NA,104431.4791,NA,NA,NA,NA,NA,NA,NA,NA,NA,91699.02515,NA,NA,NA
+2014-12-31,NA,NA,56482.43941,NA,NA,NA,NA,NA,NA,NA,NA,NA,135505.0308,NA,NA,NA,NA,NA,NA,NA,NA,72642.75897,NA,NA,NA,NA,NA,NA,NA,NA,NA,109303.6473,NA,NA,NA,NA,NA,NA,NA,NA,NA,87881.69896,NA,NA,NA,NA,NA,NA,NA,NA
+2015-04-09,NA,56267.84295,NA,NA,NA,NA,NA,NA,NA,NA,NA,122361.9169,NA,NA,NA,NA,NA,NA,NA,NA,72719.70666,NA,NA,NA,NA,NA,NA,NA,NA,NA,99441.0982,NA,NA,NA,NA,NA,NA,NA,NA,NA,81022.17478,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015-06-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,61085.98722,NA,NA,NA,NA,NA,NA,NA,NA,NA,134997.0426,NA,NA,NA,NA,NA,NA,NA,NA,83725.48738,NA,NA,NA,NA,NA,NA,NA,NA,NA,118282.5801,NA,NA,NA,NA,NA,NA,NA,NA,NA,102853.3397,NA
+2015-07-01,NA,NA,NA,65734.6231,NA,NA,NA,NA,NA,NA,NA,NA,NA,126414.6145,NA,NA,NA,NA,NA,NA,NA,NA,88071.05136,NA,NA,NA,NA,NA,NA,NA,NA,NA,126414.6145,NA,NA,NA,NA,NA,NA,NA,NA,NA,106597.7868,NA,NA,NA,NA,NA,NA,NA
+2015-08-12,NA,NA,NA,NA,50294.32376,NA,NA,NA,NA,NA,NA,NA,NA,NA,128662.5335,NA,NA,NA,NA,NA,NA,NA,NA,68681.5822,NA,NA,NA,NA,NA,NA,NA,NA,NA,112891.7826,NA,NA,NA,NA,NA,NA,NA,NA,NA,90516.46706,NA,NA,NA,NA,NA,NA
+2015-08-13,NA,NA,NA,NA,51803.03273,NA,NA,NA,NA,NA,NA,NA,NA,NA,132522.3353,NA,NA,NA,NA,NA,NA,NA,NA,70742.12185,NA,NA,NA,NA,NA,NA,NA,NA,NA,116278.3843,NA,NA,NA,NA,NA,NA,NA,NA,NA,93231.93505,NA,NA,NA,NA,NA,NA
+2015-09-01,NA,NA,NA,NA,NA,49470.25745,NA,NA,NA,NA,NA,NA,NA,NA,NA,113245.0254,NA,NA,NA,NA,NA,NA,NA,NA,75420.54341,NA,NA,NA,NA,NA,NA,NA,NA,NA,102939.7898,NA,NA,NA,NA,NA,NA,NA,NA,NA,91892.37694,NA,NA,NA,NA,NA
+2015-09-30,NA,NA,NA,NA,NA,NA,49157.67546,NA,NA,NA,NA,NA,NA,NA,NA,NA,101644.7677,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,101115.6303,NA,NA,NA,NA,NA,NA,NA,NA,NA,81151.12724,NA,NA,NA,NA
+2015-10-01,NA,NA,NA,NA,NA,NA,50386.53935,NA,NA,NA,NA,NA,NA,NA,NA,NA,104185.8025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,103643.6078,NA,NA,NA,NA,NA,NA,NA,NA,NA,83179.98492,NA,NA,NA,NA
+2015-10-07,NA,56262.94967,NA,NA,NA,NA,NA,NA,NA,NA,NA,122351.2758,NA,NA,NA,NA,NA,NA,NA,NA,72713.38266,NA,NA,NA,NA,NA,NA,NA,NA,NA,99432.45039,NA,NA,NA,NA,NA,NA,NA,NA,NA,81015.12876,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015-10-08,NA,57106.92993,NA,NA,NA,NA,NA,NA,NA,NA,NA,124186.4716,NA,NA,NA,NA,NA,NA,NA,NA,73804.12893,NA,NA,NA,NA,NA,NA,NA,NA,NA,100923.879,NA,NA,NA,NA,NA,NA,NA,NA,NA,82230.12702,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015-11-30,NA,NA,NA,NA,NA,NA,NA,53094.65465,NA,NA,NA,NA,NA,NA,NA,NA,NA,114549.5856,NA,NA,NA,NA,NA,NA,NA,NA,73610.89921,NA,NA,NA,NA,NA,NA,NA,NA,NA,104415.1739,NA,NA,NA,NA,NA,NA,NA,NA,NA,91684.70787,NA,NA,NA
+2015-12-01,NA,NA,NA,NA,NA,NA,NA,54190.70062,NA,NA,NA,NA,NA,NA,NA,NA,NA,116840.5469,NA,NA,NA,NA,NA,NA,NA,NA,75083.15583,NA,NA,NA,NA,NA,NA,NA,NA,NA,106503.2699,NA,NA,NA,NA,NA,NA,NA,NA,NA,93518.37312,NA,NA,NA
+2015-12-30,NA,NA,56473.11822,NA,NA,NA,NA,NA,NA,NA,NA,NA,135482.6687,NA,NA,NA,NA,NA,NA,NA,NA,72630.77087,NA,NA,NA,NA,NA,NA,NA,NA,NA,109285.6092,NA,NA,NA,NA,NA,NA,NA,NA,NA,87867.19601,NA,NA,NA,NA,NA,NA,NA,NA
+2015-12-31,NA,NA,56658.27433,NA,NA,NA,NA,NA,NA,NA,NA,NA,135482.6687,NA,NA,NA,NA,NA,NA,NA,NA,72691.47779,NA,NA,NA,NA,NA,NA,NA,NA,NA,109658.9567,NA,NA,NA,NA,NA,NA,NA,NA,NA,87947.12679,NA,NA,NA,NA,NA,NA,NA,NA
+2016-01-01,NA,NA,NA,NA,NA,NA,NA,NA,52237.98677,NA,NA,NA,NA,NA,NA,NA,NA,NA,127688.7858,NA,NA,NA,NA,NA,NA,NA,NA,74206.0421,NA,NA,NA,NA,NA,NA,NA,NA,NA,127688.7858,NA,NA,NA,NA,NA,NA,NA,NA,NA,98389.63156,NA,NA
+2016-04-06,NA,57104.78522,NA,NA,NA,NA,NA,NA,NA,NA,NA,124181.8077,NA,NA,NA,NA,NA,NA,NA,NA,73801.35715,NA,NA,NA,NA,NA,NA,NA,NA,NA,100920.0887,NA,NA,NA,NA,NA,NA,NA,NA,NA,82227.03879,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016-04-07,NA,57961.23231,NA,NA,NA,NA,NA,NA,NA,NA,NA,126044.5057,NA,NA,NA,NA,NA,NA,NA,NA,74908.5883,NA,NA,NA,NA,NA,NA,NA,NA,NA,102433.7205,NA,NA,NA,NA,NA,NA,NA,NA,NA,83460.40593,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016-05-20,121183.9963,NA,NA,NA,NA,NA,NA,NA,NA,NA,114901.7504,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90279.56964,NA,NA,NA,NA,NA,NA,NA,NA,NA,70899.63279,NA,NA,NA,NA,NA,NA,NA,NA,NA,81130.71904
+2016-06-01,NA,NA,NA,NA,NA,49466.19942,NA,NA,NA,NA,NA,NA,NA,NA,NA,113235.736,NA,NA,NA,NA,NA,NA,NA,NA,75414.3567,NA,NA,NA,NA,NA,NA,NA,NA,NA,102931.3457,NA,NA,NA,NA,NA,NA,NA,NA,NA,91884.83905,NA,NA,NA,NA,NA
+2016-06-02,NA,NA,NA,NA,NA,50781.42033,NA,NA,NA,NA,NA,NA,NA,NA,NA,114550.8939,NA,NA,NA,NA,NA,NA,NA,NA,76729.55196,NA,NA,NA,NA,NA,NA,NA,NA,NA,104246.5138,NA,NA,NA,NA,NA,NA,NA,NA,NA,93200.01803,NA,NA,NA,NA,NA
+2016-06-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,61079.10499,NA,NA,NA,NA,NA,NA,NA,NA,NA,134981.8332,NA,NA,NA,NA,NA,NA,NA,NA,83716.05449,NA,NA,NA,NA,NA,NA,NA,NA,NA,118269.2539,NA,NA,NA,NA,NA,NA,NA,NA,NA,102841.7517,NA
+2016-06-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,62605.90345,NA,NA,NA,NA,NA,NA,NA,NA,NA,138356.32,NA,NA,NA,NA,NA,NA,NA,NA,85809.05341,NA,NA,NA,NA,NA,NA,NA,NA,NA,121226.2297,NA,NA,NA,NA,NA,NA,NA,NA,NA,105412.8335,NA
+2016-06-30,NA,NA,NA,65727.47688,NA,NA,NA,NA,52235.19877,NA,NA,NA,NA,126400.8715,NA,NA,NA,NA,127681.9709,NA,NA,NA,88061.47688,NA,NA,NA,NA,74202.08163,NA,NA,NA,NA,126400.8715,NA,NA,NA,NA,127681.9709,NA,NA,NA,NA,106586.1982,NA,NA,NA,NA,98384.38039,NA,NA
+2016-07-01,NA,NA,NA,67370.45494,NA,NA,NA,NA,53018.64905,NA,NA,NA,NA,129560.6198,NA,NA,NA,NA,129597.042,NA,NA,NA,90262.90561,NA,NA,NA,NA,75315.01931,NA,NA,NA,NA,129560.6198,NA,NA,NA,NA,129597.042,NA,NA,NA,NA,109250.7262,NA,NA,NA,NA,99860.13845,NA,NA
+2016-08-10,NA,NA,NA,NA,51796.58187,NA,NA,NA,NA,NA,NA,NA,NA,NA,132505.8327,NA,NA,NA,NA,NA,NA,NA,NA,70733.31258,NA,NA,NA,NA,NA,NA,NA,NA,NA,116263.9046,NA,NA,NA,NA,NA,NA,NA,NA,NA,93220.32519,NA,NA,NA,NA,NA,NA
+2016-08-11,NA,NA,NA,NA,53350.37466,NA,NA,NA,NA,NA,NA,NA,NA,NA,136481.0279,NA,NA,NA,NA,NA,NA,NA,NA,72855.12528,NA,NA,NA,NA,NA,NA,NA,NA,NA,119751.474,NA,NA,NA,NA,NA,NA,NA,NA,NA,96016.87473,NA,NA,NA,NA,NA,NA
+2016-08-31,NA,NA,NA,NA,NA,50778.86055,NA,NA,NA,NA,NA,NA,NA,NA,NA,114545.1196,NA,NA,NA,NA,NA,NA,NA,NA,76725.68418,NA,NA,NA,NA,NA,NA,NA,NA,NA,104241.2589,NA,NA,NA,NA,NA,NA,NA,NA,NA,93195.32001,NA,NA,NA,NA,NA
+2016-09-01,NA,NA,NA,NA,NA,50699.88089,NA,NA,NA,NA,NA,NA,NA,NA,NA,116060.8916,NA,NA,NA,NA,NA,NA,NA,NA,77295.26847,NA,NA,NA,NA,NA,NA,NA,NA,NA,105499.5546,NA,NA,NA,NA,NA,NA,NA,NA,NA,94177.92878,NA,NA,NA,NA,NA
+2016-09-30,NA,NA,NA,NA,NA,NA,50379.21911,NA,NA,NA,NA,NA,NA,NA,NA,NA,104170.6662,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,103628.5503,NA,NA,NA,NA,NA,NA,NA,NA,NA,83167.90039,NA,NA,NA,NA
+2016-10-01,NA,NA,NA,NA,NA,NA,51638.6764,NA,NA,NA,NA,NA,NA,NA,NA,NA,106775.0678,NA,NA,NA,NA,NA,NA,NA,NA,70491.83904,NA,NA,NA,NA,NA,NA,NA,NA,NA,106219.1737,NA,NA,NA,NA,NA,NA,NA,NA,NA,85247.19184,NA,NA,NA,NA
+2016-10-05,NA,57955.04542,NA,NA,NA,NA,NA,NA,NA,NA,NA,126031.0514,NA,NA,NA,NA,NA,NA,NA,NA,74900.59241,NA,NA,NA,NA,NA,NA,NA,NA,NA,102422.7866,NA,NA,NA,NA,NA,NA,NA,NA,NA,83451.4972,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016-10-06,NA,58824.37574,NA,NA,NA,NA,NA,NA,NA,NA,NA,127921.4983,NA,NA,NA,NA,NA,NA,NA,NA,76024.15429,NA,NA,NA,NA,NA,NA,NA,NA,NA,103959.4227,NA,NA,NA,NA,NA,NA,NA,NA,NA,84703.0615,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016-11-30,NA,NA,NA,NA,NA,NA,NA,54182.66679,NA,NA,NA,NA,NA,NA,NA,NA,NA,116823.2252,NA,NA,NA,NA,NA,NA,NA,NA,75072.02467,NA,NA,NA,NA,NA,NA,NA,NA,NA,106487.4807,NA,NA,NA,NA,NA,NA,NA,NA,NA,93504.50892,NA,NA,NA
+2016-12-01,NA,NA,NA,NA,NA,NA,NA,55364.48553,NA,NA,NA,NA,NA,NA,NA,NA,NA,119159.5061,NA,NA,NA,NA,NA,NA,NA,NA,76573.41706,NA,NA,NA,NA,NA,NA,NA,NA,NA,108617.1432,NA,NA,NA,NA,NA,NA,NA,NA,NA,95374.6609,NA,NA,NA
+2016-12-30,NA,NA,56649.87455,NA,NA,NA,NA,NA,NA,NA,NA,NA,135462.583,NA,NA,NA,NA,NA,NA,NA,NA,72680.70104,NA,NA,NA,NA,NA,NA,NA,NA,NA,109642.6994,NA,NA,NA,NA,NA,NA,NA,NA,NA,87934.08834,NA,NA,NA,NA,NA,NA,NA,NA
+2016-12-31,NA,NA,57197.61674,NA,NA,NA,NA,NA,53013.67066,NA,NA,NA,137159.9659,NA,NA,NA,NA,NA,129584.8729,NA,NA,72680.6292,NA,NA,NA,NA,NA,75307.94731,NA,NA,NA,110061.4063,NA,NA,NA,NA,NA,129584.8729,NA,NA,NA,88277.95595,NA,NA,NA,NA,NA,99850.76169,NA,NA
+2017-01-01,NA,NA,NA,NA,NA,NA,NA,NA,53941.44277,NA,NA,NA,NA,NA,NA,NA,NA,NA,131852.6967,NA,NA,NA,NA,NA,NA,NA,NA,76625.82149,NA,NA,NA,NA,NA,NA,NA,NA,NA,131852.6967,NA,NA,NA,NA,NA,NA,NA,NA,NA,101597.8484,NA,NA
+2017-04-05,NA,58818.32862,NA,NA,NA,NA,NA,NA,NA,NA,NA,127908.348,NA,NA,NA,NA,NA,NA,NA,NA,76016.33904,NA,NA,NA,NA,NA,NA,NA,NA,NA,103948.7357,NA,NA,NA,NA,NA,NA,NA,NA,NA,84694.35405,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2017-04-06,NA,59700.59927,NA,NA,NA,NA,NA,NA,NA,NA,NA,129826.9207,NA,NA,NA,NA,NA,NA,NA,NA,77156.64273,NA,NA,NA,NA,NA,NA,NA,NA,NA,105507.9712,NA,NA,NA,NA,NA,NA,NA,NA,NA,85964.60245,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2017-06-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,62594.33198,NA,NA,NA,NA,NA,NA,NA,NA,NA,138330.7476,NA,NA,NA,NA,NA,NA,NA,NA,85793.1933,NA,NA,NA,NA,NA,NA,NA,NA,NA,121203.8235,NA,NA,NA,NA,NA,NA,NA,NA,NA,105393.35,NA
+2017-06-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,63605.88398,NA,NA,NA,NA,NA,NA,NA,NA,NA,139342.2996,NA,NA,NA,NA,NA,NA,NA,NA,86804.7453,NA,NA,NA,NA,NA,NA,NA,NA,NA,122215.3755,NA,NA,NA,NA,NA,NA,NA,NA,NA,106404.902,NA
+2017-06-30,NA,NA,NA,67358.5354,NA,NA,NA,NA,53936.96378,NA,NA,NA,NA,129537.6973,NA,NA,NA,NA,131841.7485,NA,NA,NA,90246.93581,NA,NA,NA,NA,76619.45892,NA,NA,NA,NA,129537.6973,NA,NA,NA,NA,131841.7485,NA,NA,NA,NA,109231.397,NA,NA,NA,NA,101589.4123,NA,NA
+2017-07-01,NA,NA,NA,69042.50827,NA,NA,NA,NA,54745.98843,NA,NA,NA,NA,132776.4179,NA,NA,NA,NA,133819.3228,NA,NA,NA,92503.1914,NA,NA,NA,NA,77768.8011,NA,NA,NA,NA,132776.4179,NA,NA,NA,NA,133819.3228,NA,NA,NA,NA,111962.0681,NA,NA,NA,NA,103113.055,NA,NA
+2017-08-09,NA,NA,NA,NA,53341.19909,NA,NA,NA,NA,NA,NA,NA,NA,NA,136457.555,NA,NA,NA,NA,NA,NA,NA,NA,72842.59516,NA,NA,NA,NA,NA,NA,NA,NA,NA,119730.8783,NA,NA,NA,NA,NA,NA,NA,NA,NA,96000.36109,NA,NA,NA,NA,NA,NA
+2017-08-10,NA,NA,NA,NA,54674.59926,NA,NA,NA,NA,NA,NA,NA,NA,NA,139868.7747,NA,NA,NA,NA,NA,NA,NA,NA,74663.68813,NA,NA,NA,NA,NA,NA,NA,NA,NA,122723.9986,NA,NA,NA,NA,NA,NA,NA,NA,NA,98400.29064,NA,NA,NA,NA,NA,NA
+2017-08-31,NA,NA,NA,NA,NA,50691.2112,NA,NA,NA,NA,NA,NA,NA,NA,NA,116041.0452,NA,NA,NA,NA,NA,NA,NA,NA,77282.05096,NA,NA,NA,NA,NA,NA,NA,NA,NA,105481.5142,NA,NA,NA,NA,NA,NA,NA,NA,NA,94161.82434,NA,NA,NA,NA,NA
+2017-09-01,NA,NA,NA,NA,NA,51958.37853,NA,NA,NA,NA,NA,NA,NA,NA,NA,118941.0788,NA,NA,NA,NA,NA,NA,NA,NA,79214.31086,NA,NA,NA,NA,NA,NA,NA,NA,NA,108118.552,NA,NA,NA,NA,NA,NA,NA,NA,NA,96515.88891,NA,NA,NA,NA,NA
+2017-09-30,NA,NA,NA,NA,NA,NA,51629.99918,NA,NA,NA,NA,NA,NA,NA,NA,NA,106757.1256,NA,NA,NA,NA,NA,NA,NA,NA,70479.99378,NA,NA,NA,NA,NA,NA,NA,NA,NA,106201.3249,NA,NA,NA,NA,NA,NA,NA,NA,NA,85232.86713,NA,NA,NA,NA
+2017-10-01,NA,NA,NA,NA,NA,NA,53147.26418,NA,NA,NA,NA,NA,NA,NA,NA,NA,108577.8436,NA,NA,NA,NA,NA,NA,NA,NA,71997.25878,NA,NA,NA,NA,NA,NA,NA,NA,NA,108022.0429,NA,NA,NA,NA,NA,NA,NA,NA,NA,87053.58513,NA,NA,NA,NA
+2017-10-04,NA,59696.82214,NA,NA,NA,NA,NA,NA,NA,NA,NA,129818.7069,NA,NA,NA,NA,NA,NA,NA,NA,77151.76119,NA,NA,NA,NA,NA,NA,NA,NA,NA,105501.2959,NA,NA,NA,NA,NA,NA,NA,NA,NA,85959.16365,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2017-10-05,NA,61040.10477,NA,NA,NA,NA,NA,NA,NA,NA,NA,132739.6891,NA,NA,NA,NA,NA,NA,NA,NA,78887.50892,NA,NA,NA,NA,NA,NA,NA,NA,NA,107874.7994,NA,NA,NA,NA,NA,NA,NA,NA,NA,87893.36925,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2017-11-30,NA,NA,NA,NA,NA,NA,NA,55353.32119,NA,NA,NA,NA,NA,NA,NA,NA,NA,119135.4774,NA,NA,NA,NA,NA,NA,NA,NA,76557.97591,NA,NA,NA,NA,NA,NA,NA,NA,NA,108595.2404,NA,NA,NA,NA,NA,NA,NA,NA,NA,95355.42845,NA,NA,NA
+2017-12-01,NA,NA,NA,NA,NA,NA,NA,56558.5785,NA,NA,NA,NA,NA,NA,NA,NA,NA,121517.9416,NA,NA,NA,NA,NA,NA,NA,NA,78088.86884,NA,NA,NA,NA,NA,NA,NA,NA,NA,110767.093,NA,NA,NA,NA,NA,NA,NA,NA,NA,97262.38226,NA,NA,NA
+2017-12-30,NA,NA,57186.2522,NA,NA,NA,NA,NA,NA,NA,NA,NA,137132.7137,NA,NA,NA,NA,NA,NA,NA,NA,72666.18835,NA,NA,NA,NA,NA,NA,NA,NA,NA,110039.5383,NA,NA,NA,NA,NA,NA,NA,NA,NA,88260.41609,NA,NA,NA,NA,NA,NA,NA,NA
+2017-12-31,NA,NA,58540.80983,NA,NA,NA,NA,NA,54739.65626,NA,NA,NA,139774.5689,NA,NA,NA,NA,NA,133803.8447,NA,NA,74784.12277,NA,NA,NA,NA,NA,77759.80602,NA,NA,NA,112908.9652,NA,NA,NA,NA,NA,133803.8447,NA,NA,NA,90471.40207,NA,NA,NA,NA,NA,103101.1285,NA,NA
+2018-01-01,NA,NA,NA,NA,NA,NA,NA,NA,55697.64017,NA,NA,NA,NA,NA,NA,NA,NA,NA,136145.3052,NA,NA,NA,NA,NA,NA,NA,NA,79120.5727,NA,NA,NA,NA,NA,NA,NA,NA,NA,136145.3052,NA,NA,NA,NA,NA,NA,NA,NA,NA,104905.2667,NA,NA
+2018-05-18,129373.2727,NA,NA,NA,NA,NA,NA,NA,NA,NA,118249.1554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,94233.0939,NA,NA,NA,NA,NA,NA,NA,NA,NA,75742.15135,NA,NA,NA,NA,NA,NA,NA,NA,NA,93520.68601
+2018-06-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,63592.67929,NA,NA,NA,NA,NA,NA,NA,NA,NA,139313.3718,NA,NA,NA,NA,NA,NA,NA,NA,86786.72448,NA,NA,NA,NA,NA,NA,NA,NA,NA,122190.0033,NA,NA,NA,NA,NA,NA,NA,NA,NA,106382.8121,NA
+2018-06-13,NA,61030.08739,NA,NA,NA,NA,NA,NA,NA,64604.02129,NA,132717.905,NA,NA,NA,NA,NA,NA,NA,140324.7138,78874.56258,NA,NA,NA,NA,NA,NA,NA,87798.06648,NA,107857.0959,NA,NA,NA,NA,NA,NA,NA,123201.3453,NA,87878.94494,NA,NA,NA,NA,NA,NA,NA,107394.1541,NA
+2018-06-14,NA,61335.27587,NA,NA,NA,NA,NA,NA,NA,NA,NA,133381.7301,NA,NA,NA,NA,NA,NA,NA,NA,79269.06434,NA,NA,NA,NA,NA,NA,NA,NA,NA,108396.7541,NA,NA,NA,NA,NA,NA,NA,NA,NA,88318.35924,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-06-30,NA,NA,NA,69028.85739,NA,NA,NA,NA,55693.06951,NA,NA,NA,NA,132750.1657,NA,NA,NA,NA,136134.1328,NA,NA,NA,92484.90195,NA,NA,NA,NA,79114.07991,NA,NA,NA,NA,132750.1657,NA,NA,NA,NA,136134.1328,NA,NA,NA,NA,111939.9313,NA,NA,NA,NA,104896.658,NA,NA
+2018-07-01,NA,NA,NA,70754.66459,NA,NA,NA,NA,56528.55126,NA,NA,NA,NA,136069.0355,NA,NA,NA,NA,138176.179,NA,NA,NA,94797.18776,NA,NA,NA,NA,80300.91883,NA,NA,NA,NA,136069.0355,NA,NA,NA,NA,138176.179,NA,NA,NA,NA,114738.4419,NA,NA,NA,NA,106470.4192,NA,NA
+2018-08-22,NA,NA,NA,NA,54662.87012,NA,NA,NA,NA,NA,NA,NA,NA,NA,139838.7691,NA,NA,NA,NA,NA,NA,NA,NA,74647.67081,NA,NA,NA,NA,NA,NA,NA,NA,NA,122697.6711,NA,NA,NA,NA,NA,NA,NA,NA,NA,98379.18119,NA,NA,NA,NA,NA,NA
+2018-08-23,NA,NA,NA,NA,56029.49244,NA,NA,NA,NA,NA,NA,NA,NA,NA,143334.8816,NA,NA,NA,NA,NA,NA,NA,NA,76513.99461,NA,NA,NA,NA,NA,NA,NA,NA,NA,125764.9864,NA,NA,NA,NA,NA,NA,NA,NA,NA,100838.6968,NA,NA,NA,NA,NA,NA
+2018-09-30,NA,NA,NA,NA,NA,NA,53136.02008,NA,NA,NA,NA,NA,NA,NA,NA,NA,108554.8723,NA,NA,NA,NA,NA,NA,NA,NA,71982.02669,NA,NA,NA,NA,NA,NA,NA,NA,NA,107999.1893,NA,NA,NA,NA,NA,NA,NA,NA,NA,87035.16765,NA,NA,NA,NA
+2018-10-01,NA,NA,NA,NA,NA,NA,54652.96408,NA,NA,NA,NA,NA,NA,NA,NA,NA,110375.2051,NA,NA,NA,NA,NA,NA,NA,NA,73498.97069,NA,NA,NA,NA,NA,NA,NA,NA,NA,109819.5221,NA,NA,NA,NA,NA,NA,NA,NA,NA,88855.50045,NA,NA,NA,NA
+2018-11-30,NA,NA,NA,NA,NA,NA,NA,56549.40781,NA,NA,NA,NA,NA,NA,NA,NA,NA,121498.2381,NA,NA,NA,NA,NA,NA,NA,NA,78076.20712,NA,NA,NA,NA,NA,NA,NA,NA,NA,110749.1327,NA,NA,NA,NA,NA,NA,NA,NA,NA,97246.61165,NA,NA,NA
+2018-12-01,NA,NA,NA,NA,NA,NA,NA,57736.9726,NA,NA,NA,NA,NA,NA,NA,NA,NA,124049.8101,NA,NA,NA,NA,NA,NA,NA,NA,79715.93208,NA,NA,NA,NA,NA,NA,NA,NA,NA,113074.9265,NA,NA,NA,NA,NA,NA,NA,NA,NA,99288.76501,NA,NA,NA
+2018-12-12,NA,61331.51573,NA,NA,NA,NA,NA,NA,NA,NA,NA,133373.5531,NA,NA,NA,NA,NA,NA,NA,NA,79264.20478,NA,NA,NA,NA,NA,NA,NA,NA,NA,108390.1089,NA,NA,NA,NA,NA,NA,NA,NA,NA,88312.94491,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-12-13,NA,62159.51692,NA,NA,NA,NA,NA,NA,NA,NA,NA,135173.8861,NA,NA,NA,NA,NA,NA,NA,NA,80334.47717,NA,NA,NA,NA,NA,NA,NA,NA,NA,109853.4325,NA,NA,NA,NA,NA,NA,NA,NA,NA,89504.8407,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-12-30,NA,NA,58532.47522,NA,NA,NA,NA,NA,NA,NA,NA,NA,139754.6688,NA,NA,NA,NA,NA,NA,NA,NA,74773.47555,NA,NA,NA,NA,NA,NA,NA,NA,NA,112892.89,NA,NA,NA,NA,NA,NA,NA,NA,NA,90458.52141,NA,NA,NA,NA,NA,NA,NA,NA
+2018-12-31,NA,NA,58941.79322,NA,NA,NA,NA,NA,56525.08581,NA,NA,NA,142267.7145,NA,NA,NA,NA,NA,138167.7082,NA,NA,76161.46559,NA,NA,NA,NA,NA,80295.99603,NA,NA,NA,115151.0917,NA,NA,NA,NA,NA,138167.7082,NA,NA,NA,92267.71207,NA,NA,NA,NA,NA,106463.8921,NA,NA
+2019-01-01,NA,NA,NA,NA,NA,NA,NA,NA,57514.39329,NA,NA,NA,NA,NA,NA,NA,NA,NA,140585.8321,NA,NA,NA,NA,NA,NA,NA,NA,81701.09017,NA,NA,NA,NA,NA,NA,NA,NA,NA,140585.8321,NA,NA,NA,NA,NA,NA,NA,NA,NA,108326.788,NA,NA
+2019-06-12,NA,62153.80057,NA,NA,NA,NA,NA,NA,NA,64594.18385,NA,135161.4552,NA,NA,NA,NA,NA,NA,NA,140303.3462,80327.08941,NA,NA,NA,NA,NA,NA,NA,87784.69721,NA,109843.3301,NA,NA,NA,NA,NA,NA,NA,123182.5851,NA,89496.6096,NA,NA,NA,NA,NA,NA,NA,107377.8009,NA
+2019-06-13,NA,62992.7892,NA,NA,NA,NA,NA,NA,NA,65605.37185,NA,136986.3968,NA,NA,NA,NA,NA,NA,NA,141314.5342,81411.75707,NA,NA,NA,NA,NA,NA,NA,88795.88521,NA,111326.2373,NA,NA,NA,NA,NA,NA,NA,124193.7731,NA,90704.77703,NA,NA,NA,NA,NA,NA,NA,108388.9889,NA
+2019-06-30,NA,NA,NA,70743.82067,NA,NA,NA,NA,57509.04728,NA,NA,NA,NA,136048.1814,NA,NA,NA,NA,140572.7645,NA,NA,NA,94782.65907,NA,NA,NA,NA,81693.49599,NA,NA,NA,NA,136048.1814,NA,NA,NA,NA,140572.7645,NA,NA,NA,NA,114720.857,NA,NA,NA,NA,108316.719,NA,NA
+2019-07-01,NA,NA,NA,72512.39723,NA,NA,NA,NA,58371.70135,NA,NA,NA,NA,139449.5819,NA,NA,NA,NA,142681.3547,NA,NA,NA,97152.26346,NA,NA,NA,NA,82918.89337,NA,NA,NA,NA,139449.5819,NA,NA,NA,NA,142681.3547,NA,NA,NA,NA,117588.8532,NA,NA,NA,NA,109941.4533,NA,NA
+2019-08-18,NA,NA,NA,NA,NA,NA,NA,57729.89305,NA,NA,NA,NA,NA,NA,NA,NA,NA,124034.5995,NA,NA,NA,NA,NA,NA,NA,NA,79706.15753,NA,NA,NA,NA,NA,NA,NA,NA,NA,113061.0615,NA,NA,NA,NA,NA,NA,NA,NA,NA,99276.59049,NA,NA,NA
+2019-08-19,NA,NA,NA,NA,NA,NA,NA,57960.9078,NA,NA,NA,NA,NA,NA,NA,NA,NA,124466.109,NA,NA,NA,NA,NA,NA,NA,NA,80021.91304,NA,NA,NA,NA,NA,NA,NA,NA,NA,113465.0172,NA,NA,NA,NA,NA,NA,NA,NA,NA,99646.09469,NA,NA,NA
+2019-08-21,NA,NA,NA,NA,56020.57261,NA,NA,NA,NA,NA,NA,NA,NA,NA,143312.0629,NA,NA,NA,NA,NA,NA,NA,NA,76501.81367,NA,NA,NA,NA,NA,NA,NA,NA,NA,125744.9648,NA,NA,NA,NA,NA,NA,NA,NA,NA,100822.6434,NA,NA,NA,NA,NA,NA
+2019-08-22,NA,NA,NA,NA,57421.22174,NA,NA,NA,NA,NA,NA,NA,NA,NA,146894.915,NA,NA,NA,NA,NA,NA,NA,NA,78414.46575,NA,NA,NA,NA,NA,NA,NA,NA,NA,128888.6395,NA,NA,NA,NA,NA,NA,NA,NA,NA,103343.3034,NA,NA,NA,NA,NA,NA
+2019-08-31,NA,NA,NA,NA,NA,51939.42428,NA,NA,NA,NA,NA,NA,NA,NA,NA,118897.6894,NA,NA,NA,NA,NA,NA,NA,NA,79185.41374,NA,NA,NA,NA,NA,NA,NA,NA,NA,108079.1107,NA,NA,NA,NA,NA,NA,NA,NA,NA,96480.68022,NA,NA,NA,NA,NA
+2019-09-01,NA,NA,NA,NA,NA,55070.76289,NA,NA,NA,NA,NA,NA,NA,NA,NA,123955.224,NA,NA,NA,NA,NA,NA,NA,NA,83367.28976,NA,NA,NA,NA,NA,NA,NA,NA,NA,112882.593,NA,NA,NA,NA,NA,NA,NA,NA,NA,101046.5416,NA,NA,NA,NA,NA
+2019-09-30,NA,NA,NA,NA,NA,NA,54644.31728,NA,NA,NA,NA,NA,NA,NA,NA,NA,110357.7424,NA,NA,NA,NA,NA,NA,NA,NA,73487.34221,NA,NA,NA,NA,NA,NA,NA,NA,NA,109802.1472,NA,NA,NA,NA,NA,NA,NA,NA,NA,88841.44237,NA,NA,NA,NA
+2019-10-01,NA,NA,NA,NA,NA,NA,56160.96574,NA,NA,NA,NA,NA,NA,NA,NA,NA,112177.6762,NA,NA,NA,NA,NA,NA,NA,NA,75003.97203,NA,NA,NA,NA,NA,NA,NA,NA,NA,111622.0816,NA,NA,NA,NA,NA,NA,NA,NA,NA,90661.39751,NA,NA,NA,NA
+2019-11-30,NA,NA,NA,NA,NA,NA,NA,57957.75512,NA,NA,NA,NA,NA,NA,NA,NA,NA,124459.3389,NA,NA,NA,NA,NA,NA,NA,NA,80017.56038,NA,NA,NA,NA,NA,NA,NA,NA,NA,113458.8454,NA,NA,NA,NA,NA,NA,NA,NA,NA,99640.67461,NA,NA,NA
+2019-12-01,NA,NA,NA,NA,NA,NA,NA,59202.07087,NA,NA,NA,NA,NA,NA,NA,NA,NA,127198.0236,NA,NA,NA,NA,NA,NA,NA,NA,81739.08152,NA,NA,NA,NA,NA,NA,NA,NA,NA,115944.239,NA,NA,NA,NA,NA,NA,NA,NA,NA,101808.2805,NA,NA,NA
+2019-12-11,NA,62986.55962,NA,NA,NA,NA,NA,NA,NA,NA,NA,136972.8497,NA,NA,NA,NA,NA,NA,NA,NA,81403.70597,NA,NA,NA,NA,NA,NA,NA,NA,NA,111315.2278,NA,NA,NA,NA,NA,NA,NA,NA,NA,90695.80691,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019-12-12,NA,63836.76202,NA,NA,NA,NA,NA,NA,NA,NA,NA,138821.7396,NA,NA,NA,NA,NA,NA,NA,NA,82502.67703,NA,NA,NA,NA,NA,NA,NA,NA,NA,112818.0985,NA,NA,NA,NA,NA,NA,NA,NA,NA,91920.14356,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019-12-30,NA,NA,58928.91246,NA,NA,NA,NA,NA,NA,NA,NA,NA,142236.6242,NA,NA,NA,NA,NA,NA,NA,NA,76144.82175,NA,NA,NA,NA,NA,NA,NA,NA,NA,115125.9273,NA,NA,NA,NA,NA,NA,NA,NA,NA,92247.54847,NA,NA,NA,NA,NA,NA,NA,NA
+2019-12-31,NA,NA,60079.44501,NA,NA,NA,NA,NA,NA,NA,NA,NA,144133.2396,NA,NA,NA,NA,NA,NA,NA,NA,76906.07763,NA,NA,NA,NA,NA,NA,NA,NA,NA,116277.4153,NA,NA,NA,NA,NA,NA,NA,NA,NA,93169.5476,NA,NA,NA,NA,NA,NA,NA,NA
+2020-03-19,NA,NA,NA,NA,NA,NA,NA,NA,58361.94573,NA,NA,NA,NA,NA,NA,NA,NA,NA,142657.5084,NA,NA,NA,NA,NA,NA,NA,NA,82905.03519,NA,NA,NA,NA,NA,NA,NA,NA,NA,142657.5084,NA,NA,NA,NA,NA,NA,NA,NA,NA,109923.0789,NA,NA
+2020-03-20,NA,NA,NA,NA,NA,NA,NA,NA,59237.11465,NA,NA,NA,NA,NA,NA,NA,NA,NA,144797.4503,NA,NA,NA,NA,NA,NA,NA,NA,84148.51148,NA,NA,NA,NA,NA,NA,NA,NA,NA,144797.4503,NA,NA,NA,NA,NA,NA,NA,NA,NA,111571.9487,NA,NA
+2020-06-10,NA,63844.84352,NA,NA,NA,NA,NA,NA,NA,NA,NA,138839.3139,NA,NA,NA,NA,NA,NA,NA,NA,82513.12157,NA,NA,NA,NA,NA,NA,NA,NA,NA,112832.3809,NA,NA,NA,NA,NA,NA,NA,NA,NA,91931.78032,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-06-11,NA,64706.63664,NA,NA,NA,NA,NA,NA,NA,NA,NA,140713.8537,NA,NA,NA,NA,NA,NA,NA,NA,83626.80636,NA,NA,NA,NA,NA,NA,NA,NA,NA,114355.7763,NA,NA,NA,NA,NA,NA,NA,NA,NA,93172.74337,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-06-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,65607.12359,NA,NA,NA,NA,NA,NA,NA,NA,NA,141318.3075,NA,NA,NA,NA,NA,NA,NA,NA,88798.25617,NA,NA,NA,NA,NA,NA,NA,NA,NA,124197.0892,NA,NA,NA,NA,NA,NA,NA,NA,NA,108391.883,NA
+2020-06-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,66618.40447,NA,NA,NA,NA,NA,NA,NA,NA,NA,142329.6632,NA,NA,NA,NA,NA,NA,NA,NA,89809.55999,NA,NA,NA,NA,NA,NA,NA,NA,NA,125208.428,NA,NA,NA,NA,NA,NA,NA,NA,NA,109403.2062,NA
+2020-06-29,NA,NA,NA,NA,NA,55074.4664,NA,NA,NA,NA,NA,NA,NA,NA,NA,123963.5599,NA,NA,NA,NA,NA,NA,NA,NA,83372.8962,NA,NA,NA,NA,NA,NA,NA,NA,NA,112890.1844,NA,NA,NA,NA,NA,NA,NA,NA,NA,101053.337,NA,NA,NA,NA,NA
+2020-06-30,NA,NA,NA,72514.4051,NA,56338.49265,NA,NA,59248.71572,NA,NA,NA,NA,139453.4432,NA,125227.5862,NA,NA,144825.8076,NA,NA,NA,97154.95361,NA,84636.92245,NA,NA,84164.99123,NA,NA,NA,NA,139453.4432,NA,114154.2106,NA,NA,144825.8076,NA,NA,NA,NA,117592.1092,NA,102317.3632,NA,NA,111593.7991,NA,NA
+2020-07-01,NA,NA,NA,72731.94402,NA,NA,NA,NA,60024.74801,NA,NA,NA,NA,139871.8359,NA,NA,NA,NA,146757.2397,NA,NA,NA,97446.43807,NA,NA,NA,NA,85266.77269,NA,NA,NA,NA,139871.8359,NA,NA,NA,NA,146757.2397,NA,NA,NA,NA,117945.0254,NA,NA,NA,NA,113047.9349,NA,NA
+2020-08-19,NA,NA,NA,NA,57416.22441,NA,NA,NA,NA,NA,NA,NA,NA,NA,146882.1309,NA,NA,NA,NA,NA,NA,NA,NA,78407.64139,NA,NA,NA,NA,NA,NA,NA,NA,NA,128877.4224,NA,NA,NA,NA,NA,NA,NA,NA,NA,103334.3095,NA,NA,NA,NA,NA,NA
+2020-08-20,NA,NA,NA,NA,58851.61808,NA,NA,NA,NA,NA,NA,NA,NA,NA,150554.0211,NA,NA,NA,NA,NA,NA,NA,NA,80367.82511,NA,NA,NA,NA,NA,NA,NA,NA,NA,132099.4252,NA,NA,NA,NA,NA,NA,NA,NA,NA,105917.5155,NA,NA,NA,NA,NA,NA
+2020-08-31,NA,NA,NA,NA,NA,56328.96567,NA,NA,NA,NA,NA,NA,NA,NA,NA,125206.4099,NA,NA,NA,NA,NA,NA,NA,NA,84622.61014,NA,NA,NA,NA,NA,NA,NA,NA,NA,114134.9069,NA,NA,NA,NA,NA,NA,NA,NA,NA,102300.0611,NA,NA,NA,NA,NA
+2020-09-01,NA,NA,NA,NA,NA,56064.48694,NA,NA,NA,NA,NA,NA,NA,NA,NA,126203.1804,NA,NA,NA,NA,NA,NA,NA,NA,84876.17336,NA,NA,NA,NA,NA,NA,NA,NA,NA,114920.3791,NA,NA,NA,NA,NA,NA,NA,NA,NA,102872.4664,NA,NA,NA,NA,NA
+2020-11-30,NA,NA,NA,NA,NA,NA,NA,59197.56235,60012.93563,NA,NA,NA,NA,NA,NA,NA,NA,127188.3369,146728.3591,NA,NA,NA,NA,NA,NA,NA,81732.8567,85249.99289,NA,NA,NA,NA,NA,NA,NA,NA,115935.4093,146728.3591,NA,NA,NA,NA,NA,NA,NA,NA,101800.5273,113025.688,NA,NA
+2020-12-01,NA,NA,NA,NA,NA,NA,NA,60559.07948,59977.54375,NA,NA,NA,NA,NA,NA,NA,NA,130113.6004,146606.8914,NA,NA,NA,NA,NA,NA,NA,83612.53963,85200.20003,NA,NA,NA,NA,NA,NA,NA,NA,118601.8625,146606.8914,NA,NA,NA,NA,NA,NA,NA,NA,104142.0957,112965.9259,NA,NA
+2020-12-09,NA,64694.0308,NA,NA,NA,NA,NA,NA,NA,NA,NA,140686.4405,NA,NA,NA,NA,NA,NA,NA,NA,83610.51459,NA,NA,NA,NA,NA,NA,NA,NA,NA,114333.4981,NA,NA,NA,NA,NA,NA,NA,NA,NA,93154.59191,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-12-10,NA,65567.43141,NA,NA,NA,NA,NA,NA,NA,NA,NA,142585.6378,NA,NA,NA,NA,NA,NA,NA,NA,84739.14768,NA,NA,NA,NA,NA,NA,NA,NA,NA,115877.3226,NA,NA,NA,NA,NA,NA,NA,NA,NA,94412.2983,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-12-30,NA,NA,60076.35506,NA,NA,NA,NA,NA,NA,NA,NA,NA,144125.8267,NA,NA,NA,NA,NA,NA,NA,NA,76902.12227,NA,NA,NA,NA,NA,NA,NA,NA,NA,116271.4351,NA,NA,NA,NA,NA,NA,NA,NA,NA,93164.7558,NA,NA,NA,NA,NA,NA,NA,NA
+2020-12-31,NA,NA,60708.43027,NA,NA,NA,NA,NA,NA,NA,NA,NA,146431.8002,NA,NA,NA,NA,NA,NA,NA,NA,77441.92608,NA,NA,NA,NA,NA,NA,NA,NA,NA,117036.6554,NA,NA,NA,NA,NA,NA,NA,NA,NA,94137.25623,NA,NA,NA,NA,NA,NA,NA,NA
+2021-05-21,96361.8505,NA,NA,NA,NA,NA,NA,NA,NA,NA,124645.8576,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,110224.2844,NA,NA,NA,NA,NA,NA,NA,NA,NA,83770.66716,NA,NA,NA,NA,NA,NA,NA,NA,NA,93713.85132
+2021-06-09,NA,65560.75156,NA,NA,NA,NA,NA,NA,NA,NA,NA,142571.1116,NA,NA,NA,NA,NA,NA,NA,NA,84730.51467,NA,NA,NA,NA,NA,NA,NA,NA,NA,115865.5173,NA,NA,NA,NA,NA,NA,NA,NA,NA,94402.67981,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-06-10,NA,66445.89058,NA,NA,NA,NA,NA,NA,NA,NA,NA,144495.7508,NA,NA,NA,NA,NA,NA,NA,NA,85874.11156,NA,NA,NA,NA,NA,NA,NA,NA,NA,117429.2866,NA,NA,NA,NA,NA,NA,NA,NA,NA,95676.94462,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-06-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,66598.3771,NA,NA,NA,NA,NA,NA,NA,NA,NA,142286.8749,NA,NA,NA,NA,NA,NA,NA,NA,89782.5607,NA,NA,NA,NA,NA,NA,NA,NA,NA,125170.7869,NA,NA,NA,NA,NA,NA,NA,NA,NA,109370.3166,NA
+2021-06-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,67609.22222,NA,NA,NA,NA,NA,NA,NA,NA,NA,143297.6452,NA,NA,NA,NA,NA,NA,NA,NA,90793.38289,NA,NA,NA,NA,NA,NA,NA,NA,NA,126181.574,NA,NA,NA,NA,NA,NA,NA,NA,NA,110381.1194,NA
+2021-06-30,NA,NA,NA,72708.56844,NA,NA,NA,NA,59970.12828,NA,NA,NA,NA,139826.882,NA,NA,NA,NA,146588.7653,NA,NA,NA,97415.1194,NA,NA,NA,NA,85189.6661,NA,NA,NA,NA,139826.882,NA,NA,NA,NA,146588.7653,NA,NA,NA,NA,117907.1186,NA,NA,NA,NA,112951.9591,NA,NA
+2021-07-01,NA,NA,NA,74191.60584,NA,NA,NA,NA,60761.33372,NA,NA,NA,NA,142679.2366,NA,NA,NA,NA,148558.3492,NA,NA,NA,99402.18988,NA,NA,NA,NA,86312.74234,NA,NA,NA,NA,142679.2366,NA,NA,NA,NA,148558.3492,NA,NA,NA,NA,120312.4266,NA,NA,NA,NA,114434.3249,NA,NA
+2021-07-31,NA,NA,NA,NA,NA,NA,56146.63577,NA,NA,NA,NA,NA,NA,NA,NA,NA,112149.0531,NA,NA,NA,NA,NA,NA,NA,NA,74984.83411,NA,NA,NA,NA,NA,NA,NA,NA,NA,111593.6003,NA,NA,NA,NA,NA,NA,NA,NA,NA,90638.26445,NA,NA,NA,NA
+2021-08-01,NA,NA,NA,NA,NA,NA,56988.89266,NA,NA,NA,NA,NA,NA,NA,NA,NA,113831.0398,NA,NA,NA,NA,NA,NA,NA,NA,76109.35948,NA,NA,NA,NA,NA,NA,NA,NA,NA,113267.5005,NA,NA,NA,NA,NA,NA,NA,NA,NA,91997.6586,NA,NA,NA,NA
+2021-08-09,NA,NA,NA,NA,58840.20938,NA,NA,NA,NA,NA,NA,NA,NA,NA,150524.8354,NA,NA,NA,NA,NA,NA,NA,NA,80352.24537,NA,NA,NA,NA,NA,NA,NA,NA,NA,132073.817,NA,NA,NA,NA,NA,NA,NA,NA,NA,105896.9828,NA,NA,NA,NA,NA,NA
+2021-08-10,NA,NA,NA,NA,62883.61517,NA,NA,NA,NA,NA,NA,NA,NA,NA,154568.1505,NA,NA,NA,NA,NA,NA,NA,NA,84395.62988,NA,NA,NA,NA,NA,NA,NA,NA,NA,136117.1504,NA,NA,NA,NA,NA,NA,NA,NA,NA,109940.3421,NA,NA,NA,NA,NA,NA
+2021-08-31,NA,NA,NA,NA,NA,56052.95296,NA,NA,60758.08797,NA,NA,NA,NA,NA,NA,126177.217,NA,NA,148550.4135,NA,NA,NA,NA,NA,84858.71204,NA,NA,86308.13168,NA,NA,NA,NA,NA,NA,114896.7368,NA,NA,148550.4135,NA,NA,NA,NA,NA,NA,102851.3028,NA,NA,114428.212,NA,NA
+2021-09-01,NA,NA,NA,NA,NA,57455.14531,NA,NA,60866.28713,NA,NA,NA,NA,NA,NA,129332.0486,NA,NA,148779.0747,NA,NA,NA,NA,NA,86980.42156,NA,NA,86462.7316,NA,NA,NA,NA,NA,NA,117769.0612,NA,NA,148779.0747,NA,NA,NA,NA,NA,NA,105422.1683,NA,NA,114639.7564,NA,NA
+2021-11-30,NA,NA,NA,NA,NA,NA,NA,60540.69051,NA,NA,NA,NA,NA,NA,NA,NA,NA,130074.0909,NA,NA,NA,NA,NA,NA,NA,NA,83587.1504,NA,NA,NA,NA,NA,NA,NA,NA,NA,118565.8486,NA,NA,NA,NA,NA,NA,NA,NA,NA,104110.4726,NA,NA,NA
+2021-12-01,NA,NA,NA,NA,NA,NA,NA,61963.31022,NA,NA,NA,NA,NA,NA,NA,NA,NA,133130.8637,NA,NA,NA,NA,NA,NA,NA,NA,85551.34247,NA,NA,NA,NA,NA,NA,NA,NA,NA,121352.0144,NA,NA,NA,NA,NA,NA,NA,NA,NA,106556.8726,NA,NA,NA
+2021-12-08,NA,66432.08759,NA,NA,NA,NA,56979.19603,NA,NA,NA,NA,144465.7343,NA,NA,NA,NA,113811.6715,NA,NA,NA,85856.27269,NA,NA,NA,NA,76096.40951,NA,NA,NA,NA,117404.8927,NA,NA,NA,NA,113248.2281,NA,NA,NA,NA,95657.06938,NA,NA,NA,NA,91982.00525,NA,NA,NA,NA
+2021-12-09,NA,67328.93159,NA,NA,NA,NA,57989.84265,NA,NA,NA,NA,146415.9954,NA,NA,NA,NA,114822.2619,NA,NA,NA,87015.46408,NA,NA,NA,NA,77107.03722,NA,NA,NA,NA,118989.5588,NA,NA,NA,NA,114258.8191,NA,NA,NA,NA,96948.45103,NA,NA,NA,NA,92992.61724,NA,NA,NA,NA
+2021-12-30,NA,NA,60688.37449,NA,NA,NA,NA,NA,NA,NA,NA,NA,146383.4246,NA,NA,NA,NA,NA,NA,NA,NA,77416.34218,NA,NA,NA,NA,NA,NA,NA,NA,NA,116997.9909,NA,NA,NA,NA,NA,NA,NA,NA,NA,94106.15682,NA,NA,NA,NA,NA,NA,NA,NA
+2021-12-31,NA,NA,61922.85518,NA,NA,NA,NA,NA,NA,NA,NA,NA,149898.4109,NA,NA,NA,NA,NA,NA,NA,NA,79925.26876,NA,NA,NA,NA,NA,NA,NA,NA,NA,120928.3941,NA,NA,NA,NA,NA,NA,NA,NA,NA,96896.54015,NA,NA,NA,NA,NA,NA,NA,NA
+2022-02-28,NA,NA,NA,NA,NA,57437.18417,NA,NA,NA,NA,NA,NA,NA,NA,NA,129291.6179,NA,NA,NA,NA,NA,NA,NA,NA,86953.23047,NA,NA,NA,NA,NA,NA,NA,NA,NA,117732.2453,NA,NA,NA,NA,NA,NA,NA,NA,NA,105389.2121,NA,NA,NA,NA,NA
+2022-03-01,NA,NA,NA,NA,NA,58872.82783,NA,NA,NA,NA,NA,NA,NA,NA,NA,132523.1296,NA,NA,NA,NA,NA,NA,NA,NA,89126.72717,NA,NA,NA,NA,NA,NA,NA,NA,NA,120675.0353,NA,NA,NA,NA,NA,NA,NA,NA,NA,108023.3249,NA,NA,NA,NA,NA
+2022-05-31,NA,NA,NA,NA,NA,NA,NA,NA,60835.99967,NA,NA,NA,NA,NA,NA,NA,NA,NA,148705.0412,NA,NA,NA,NA,NA,NA,NA,NA,86419.70719,NA,NA,NA,NA,NA,NA,NA,NA,NA,148705.0412,NA,NA,NA,NA,NA,NA,NA,NA,NA,114582.7109,NA,NA
+2022-06-01,NA,NA,NA,NA,NA,NA,NA,NA,61596.17438,NA,NA,NA,NA,NA,NA,NA,NA,NA,150563.6124,NA,NA,NA,NA,NA,NA,NA,NA,87499.77721,NA,NA,NA,NA,NA,NA,NA,NA,NA,150563.6124,NA,NA,NA,NA,NA,NA,NA,NA,NA,116014.7703,NA,NA
+2022-06-08,NA,67303.08461,NA,NA,NA,NA,NA,NA,NA,NA,NA,146359.7876,NA,NA,NA,NA,NA,NA,NA,NA,86982.05961,NA,NA,NA,NA,NA,NA,NA,NA,NA,118943.8798,NA,NA,NA,NA,NA,NA,NA,NA,NA,96911.23337,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-06-09,NA,68211.63069,NA,NA,NA,NA,NA,NA,NA,NA,NA,148335.2707,NA,NA,NA,NA,NA,NA,NA,NA,88156.12064,NA,NA,NA,NA,NA,NA,NA,NA,NA,120549.4175,NA,NA,NA,NA,NA,NA,NA,NA,NA,98219.29964,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-06-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,67568.62637,NA,NA,NA,NA,NA,NA,NA,NA,NA,143211.6023,NA,NA,NA,NA,NA,NA,NA,NA,90738.86614,NA,NA,NA,NA,NA,NA,NA,NA,NA,126105.8085,NA,NA,NA,NA,NA,NA,NA,NA,NA,110314.8412,NA
+2022-06-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,70720.56485,NA,NA,NA,NA,NA,NA,NA,NA,NA,147507.3137,NA,NA,NA,NA,NA,NA,NA,NA,93890.73582,NA,NA,NA,NA,NA,NA,NA,NA,NA,129888.6745,NA,NA,NA,NA,NA,NA,NA,NA,NA,113624.5123,NA
+2022-06-30,NA,NA,NA,74144.63496,NA,NA,NA,NA,61591.41902,NA,NA,NA,NA,142588.9061,NA,NA,NA,NA,150551.9886,NA,NA,NA,99339.25812,NA,NA,NA,NA,87493.02202,NA,NA,NA,NA,142588.9061,NA,NA,NA,NA,150551.9886,NA,NA,NA,NA,120236.2565,NA,NA,NA,NA,116005.8137,NA,NA
+2022-07-01,NA,NA,NA,76020.32647,NA,NA,NA,NA,62398.26795,NA,NA,NA,NA,146196.0926,NA,NA,NA,NA,152559.9225,NA,NA,NA,101852.3438,NA,NA,NA,NA,88570.36434,NA,NA,NA,NA,146196.0926,NA,NA,NA,NA,152559.9225,NA,NA,NA,NA,123278.0208,NA,NA,NA,NA,117516.8062,NA,NA
+2022-07-31,NA,NA,NA,NA,NA,NA,57960.98265,NA,NA,NA,NA,NA,NA,NA,NA,NA,114765.1179,NA,NA,NA,NA,NA,NA,NA,NA,77068.6631,NA,NA,NA,NA,NA,NA,NA,NA,NA,114201.9555,NA,NA,NA,NA,NA,NA,NA,NA,NA,92946.33729,NA,NA,NA,NA
+2022-08-01,NA,NA,NA,NA,NA,NA,57804.76535,NA,NA,NA,NA,NA,NA,NA,NA,NA,115461.3682,NA,NA,NA,NA,NA,NA,NA,NA,77199.40758,NA,NA,NA,NA,NA,NA,NA,NA,NA,114889.4993,NA,NA,NA,NA,NA,NA,NA,NA,NA,93314.96791,NA,NA,NA,NA
+2022-08-09,NA,NA,NA,NA,62841.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,154464.9385,NA,NA,NA,NA,NA,NA,NA,NA,84339.27518,NA,NA,NA,NA,NA,NA,NA,NA,NA,136026.2589,NA,NA,NA,NA,NA,NA,NA,NA,NA,109866.93,NA,NA,NA,NA,NA,NA
+2022-08-10,NA,NA,NA,NA,60821.243,NA,NA,NA,NA,NA,NA,NA,NA,NA,152444.5565,NA,NA,NA,NA,NA,NA,NA,NA,82318.89318,NA,NA,NA,NA,NA,NA,NA,NA,NA,134005.8769,NA,NA,NA,NA,NA,NA,NA,NA,NA,107846.548,NA,NA,NA,NA,NA,NA
+2022-08-31,NA,NA,NA,NA,NA,58852.6699,NA,NA,NA,NA,NA,NA,NA,NA,NA,132477.754,NA,NA,NA,NA,NA,NA,NA,NA,89096.21035,NA,NA,NA,NA,NA,NA,NA,NA,NA,120633.7164,NA,NA,NA,NA,NA,NA,NA,NA,NA,107986.3379,NA,NA,NA,NA,NA
+2022-09-01,NA,NA,NA,NA,NA,60324.23166,NA,NA,NA,NA,NA,NA,NA,NA,NA,135789.7275,NA,NA,NA,NA,NA,NA,NA,NA,91323.93244,NA,NA,NA,NA,NA,NA,NA,NA,NA,123649.721,NA,NA,NA,NA,NA,NA,NA,NA,NA,110686.1709,NA,NA,NA,NA,NA
+2022-11-30,NA,NA,NA,NA,NA,NA,NA,61919.78259,NA,NA,NA,NA,NA,NA,NA,NA,NA,133037.3427,NA,NA,NA,NA,NA,NA,NA,NA,85491.24484,NA,NA,NA,NA,NA,NA,NA,NA,NA,121266.7677,NA,NA,NA,NA,NA,NA,NA,NA,NA,106482.0191,NA,NA,NA
+2022-12-01,NA,68190.56588,61881.4375,76001.36375,60809.74333,60313.90067,57793.37833,65654.848,62382.70316,70699.495,NA,148289.4625,149798.15,146159.625,152415.7333,135766.4725,115438.6233,138738.65,152521.8675,147463.3667,88128.89667,79871.81,101826.9375,82303.32889,91308.2925,77184.2,89528.51182,88548.27111,93862.76286,NA,120512.19,120847.51,146159.625,133980.54,123628.545,114866.8671,126556.2825,152521.8675,129849.9767,NA,98188.968,96831.73,123247.27,107826.1571,110667.215,93296.58571,111253.9529,117487.4925,113590.66,NA

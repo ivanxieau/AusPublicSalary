@@ -40,3 +40,4 @@ Salaries <- Salaries %>%
 # Clean and print final dataframes
 Salaries <- na.omit(Salaries)
 
+# Cast the Salaries dataframe
