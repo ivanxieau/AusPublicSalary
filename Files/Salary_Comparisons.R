@@ -8,31 +8,31 @@ library(reshape)
 library(reshape2)
 
 # Read all Salary Comparison CSV files in GitHub.
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/APS%20Remuneration%20Data.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/APS.csv" 
 Cwth_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/NSWPS%20Award%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/NSWPS.csv" 
 NSW_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/VPS%20EA%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/VPS.csv" 
 Vic_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/QPS%20CA%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/QPS.csv" 
 Qld_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/WACS-A%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/WACS.csv" 
 WA_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/SAPS%20EA%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/SAPS.csv" 
 SA_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/TSS%20WA%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/TSS.csv" 
 Tas_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/ACTPS%20EA%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/ACTPS.csv" 
 ACT_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/NTPS%20EA%20Salaries.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/NTPS.csv" 
 NT_df <- read_csv(url(urlfile))
 
 urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/CPI.csv" 
