@@ -1,5 +1,6 @@
 library(tidyverse)
 library(padr)
+library(priceR)
 library(lubridate)
 library(RCurl)
 library(pander)
@@ -32,10 +33,13 @@ Tas_df <- read_csv(url(urlfile))
 urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/ACTPS.csv" 
 ACT_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/NTPS.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Salaries/NTPS.csv"
 NT_df <- read_csv(url(urlfile))
 
-urlfile ="https://raw.githubusercontent.com/ivanxieau/PublicSector_Australia/main/Salary%20Agreements/CPI.csv" 
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Files/ABS_Pay_Data.csv"
+Occp <- read_csv(url(urlfile))
+
+urlfile ="https://raw.githubusercontent.com/ivanxieau/Australian_Public_Sector/main/Files/Daily_CPI_Inflator.csv" 
 CPI <- read_csv(url(urlfile))
 
 # Melt dataframes
@@ -49,12 +53,14 @@ Tas_df <- melt(Tas_df, id = c("Grade", "Classification", "Jurisdiction"))
 ACT_df <- melt(ACT_df, id = c("Grade", "Classification", "Jurisdiction"))
 NT_df <- melt(NT_df, id = c("Grade", "Classification", "Jurisdiction"))
 
-# Combine dataframes
-Salaries <- rbind(Cwth_df, NSW_df, Vic_df, Qld_df, WA_df, SA_df, Tas_df, ACT_df, NT_df)
+# Combine PS Salaries dataframes
+PS_Salaries <- rbind(Cwth_df, NSW_df, Vic_df, Qld_df, WA_df, SA_df, Tas_df, ACT_df, NT_df)
 
-# Clean Salaries dataframe
-Salaries$Date <- as.Date(Salaries$variable, "%d/%m/%Y")
-colnames(Salaries)[5] ="Salary"
-Salaries <- subset(Salaries, select = -c(variable))
+# Clean PS Salaries dataframe
+PS_Salaries$Date <- as.Date(PS_Salaries$variable, "%d/%m/%Y")
+colnames(PS_Salaries)[5] ="Salary"
+PS_Salaries <- subset(PS_Salaries, select = -c(variable))
 
-# Clean CPI dataframe (Converting data types, insert missing months, creating new Monthly CPI variable)
+
+
+
