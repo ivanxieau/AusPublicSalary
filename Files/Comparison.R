@@ -25,13 +25,12 @@ PS_Sal <- subset(PS_Sal, select = -c(Grade))
 Salaries <- rbind(PS_Sal, ABS_Sal)
 Salaries$Date <- as.Date(Salaries$Date, "%d/%m/%Y")
 Salaries <- left_join(Salaries, CPI, by = "Date")
-Salaries <- subset(Salaries, select = -c(SAdj_CPI_Index, Daily_CPI))
 Salaries$Inflator <- as.numeric(gsub("%","",Salaries$Inflator))
 Salaries$Inflator <- as.numeric(Salaries$Inflator/100)
 Salaries <- Salaries %>% mutate(Salary_Real = Salary * (1 + Inflator/100))
 
 # Summarise PS Salaries by Min, Max and Mean for each unique class./juris./date
-Salaries <- Salaries %>% 
+Salaries1 <- Salaries %>% 
   group_by(Occ_Class, Jurisdiction, Date) %>%
   summarize(Min = min(Salary_Real),
             Max = max(Salary_Real),
@@ -40,4 +39,3 @@ Salaries <- Salaries %>%
 # Clean and print final dataframes
 Salaries <- na.omit(Salaries)
 
-# Cast the Salaries dataframe
